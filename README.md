@@ -53,38 +53,23 @@
 > Able to work in a team, individually or under minimal supervision 
 > Able to manage different projects and clients simultaneously
 
-> # Technical skills 
->Automotive Engineering 
- 
->CAD Design 
- 
->CAE Design 
- 
->CFD Simulation 
- 
->Coding 
- 
->Design of Experiments - Optimization 
- 
->FEM Simulation 
- 
->Data Post-Processing - Statistics 
- 
->Industry 4.0 
- 
->Naval Architecture 
- 
->Marine Engineering 
- 
->Mechanical Engineering 
- 
->RAMS – FMEA Analysis 
- 
->Six Sigma - Lean Manufacturing 
- 
->Technical Design and tolerance analysis 
- 
->Technical Customer / Client Service 
+> # Technical skills
+> - [x] Automotive Engineering   
+> - [x] CAD Design   
+> - [x] CAE Design    
+> - [x] CFD Simulation    
+> - [x] Coding    
+> - [x] Design of Experiments - Optimization    
+> - [x] FEM Simulation    
+> - [x] Data Post-Processing - Statistics    
+> - [x] Industry 4.0    
+> - [x] Naval Architecture    
+> - [x] Marine Engineering    
+> - [x] Mechanical Engineering    
+> - [x] RAMS – FMEA Analysis    
+> - [x] Six Sigma - Lean Manufacturing    
+> - [x] Technical Design and tolerance analysis    
+> - [x] Technical Customer / Client Service   
 
 
 
