@@ -3,13 +3,13 @@
 Born: 1990, Italy 
 
 
-[Mail](carlo.a.pasquinucci@gmail.com)
+Mail <carlo.a.pasquinucci@gmail.com>
 
 
-[Skype](carlo_pasquinucci)
+Skype <carlo_pasquinucci>
 
 
-[GitHub](github.com/Carlopasquinucci)
+GitHub <github.com/Carlopasquinucci>
 
 
-[LinkedIn](linkedin.com/in/carloaugustopasquinucci)
+LinkedIn <linkedin.com/in/carloaugustopasquinucci>
