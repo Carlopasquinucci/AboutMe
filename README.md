@@ -53,12 +53,13 @@
 >  :fr:     **French:** A2 
 
 > ### Soft skills
-> Able to set the goals high without being  overambitious   
-> Able to quickly embrace new ideas and  methods   
-> Solution oriented and proactive worker   
-> Holistic viewer and conceptual thinker     
-> Able to work in a team, individually or under minimal supervision 
-> Able to manage different projects and clients simultaneously
+> - *Able to set the goals high without being  overambitious*     
+> - *Able to quickly embrace new ideas and  methods*             
+> - *Solution oriented and proactive worker*        
+> - *Holistic viewer and conceptual thinker*     
+> - *Able to work in a team, individually or under minimal supervision*   
+> - *Able to manage different projects and clients simultaneously*    
+
 
 > ### Technical skills
 [//]: # (- [x] :heavy_check_mark:    :large_blue_diamond:  :large_blue_diamond:  :large_orange_diamond:  :large_white_diamond:)
@@ -196,7 +197,61 @@
 
 
 
+----------
 
+> # **What I'm studing and researching**
+
+----------
+
+PUBLICATIONS:
+Conference Articles:
+“Learning from Results: Data Based Project Based on CFD Simulations”,
+International CAE Conference, Vicenza, October 2018
+“A Fast Optimization Algorithm for Greener Ship Design”
+International CAE Conference, Vicenza, November 2017
+“Significance of Parametric Hull Form Definition on Hydrodynamic Performance Optimization”
+VI Compit 2015, Rome, Italy
+Poster Sessions:
+“Logarithmic Spiral Based Volute Design and Optimization” CAESES European Users’ Meeting, 2019
+“Sparse Free Form Deformation for Faster Hull Optimization” CAESES European Users’ Meeting, 2017
+“Hull Coefficients Sensitivity Analysis with Modern Methods” International CAE Conference, Vicenza, 2017
+Contest:
+“Free Form Deformation and Surrogate Surface: A Help in Greener Ship Design”
+Winner TraVisions Contest 2018 – European Contest for Master Thesis – Waterborne Section
+TRAINING:
+“OpenFOAM Introductory Training”, June 2019, WolfsDynamics
+“Cetol Six Sigma”, June 2018, Enrico Boesso, Enginsoft
+“GPS – Specifiche Geometriche di Prodotto”, September 2018, Roberto Frizza, University of Bergamo
+ LinkedIn Learning:
+“Operational Excellence Foundations”
+“Project Management Foundations: Quality”
+“Six Sigma: Green Belt”
+“Six Sigma Foundations”
+“Learning Bash Scripting”
+“Leaning Linux Shell Scripting”
+ SimScale Academy:
+“SimScale FEA Master Class”
+“SimScale CFD Master Class”
+“Applications of CFD in Formula Student &
+Formula SAE”
+“Introduction to CAE”
+Other:
+“OpenFOAM: Analisi CFD per la Fluidodinamica”, (100/100), LifeLearning, Ing. Christian Bortone from Engify
+“Introduction to Python for Data Science”, (91/100), edX
+“A Hands-on Introduction to Engineering Simulations”, (82/100), edX in with ANSYS Support
+“Simulation-driven Design Principles in Application of CAESES”, Friendship-Systems AG, Berlin
+INGEGNERIA NAVALE - UNIVERSITY OF GENOA
+September 2009 – September 2016
+Master Degree: 105/110
+Master Thesis: Free Form Deformation and Surrogate Models for Exploration, Sensitivity and Optimization of
+Complex Hull Forms
+(In collaboration with Friendship-Systems AG) – Winner of TRAVisions 2018 European Contest
+Bachelor Thesis: Preliminary design of a 12,380 DWT Chemical Tanker (February, 2013), 4-People Team Work
+TU – BERLIN - ERASMUS STUDENT
+March 2014 – September 2014
+Lessons in German, Exams in German and English
+LINGUISTIC AND SCIENTIFIC LYCEUM ELIO VITTORINI (Milan, Italy)
+Languages German and English
 
 
 
