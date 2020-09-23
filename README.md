@@ -1,6 +1,6 @@
 # Experienced CFD Engineer - CAE Analyst
 
-----------
+
 
 > ### Contacts
 >  :email: <carlo.a.pasquinucci@gmail.com>
@@ -34,7 +34,6 @@
 >“[..] Mr Pasquinucci sets his goals high  without being overambitious or unrealistic. Besides, Mr Pasquinucci is a very friendly and team-oriented 
 >person who forms a valuable part of FRIENDSHIP SYSTEMS’ team. […]” 
 
-
 > ### Software
 > ***O.S.:*** Windows, Linux   
 > ***Languages:*** Python, Matlab, Visual Basic (Basic), C (Basic), GitHub   
@@ -44,7 +43,6 @@
 > ***Optimizer:*** DAKOTA, CAESES, ANSYS, Python   
 > ***Support - Conferencing:*** Skype, GoToMeeting, TeamViewer   
 > ***Other:*** Office, Outlook, Google Calendar, LibreOffice, Google Docs, LaTex
-
 
 > ### Languages 
 >  :it:    **Italian:** Mothertongue   
