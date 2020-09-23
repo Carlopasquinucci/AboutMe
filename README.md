@@ -47,7 +47,7 @@
 
 
 > ### Languages 
->  :it: **Italian:** Mothertongue 
+>  :it: **Italian:** Mothertongue   
 >  :gb: **English:** B2 Language Online Exam Erasmus+  OLS, June 2015 (2.5 years working  experience + 7 months Erasmus)   
 > :de: **German:** B1 Language course: ZEMS, Berlin, March 2014 - A2 Language certificate exam Oi, Rome, November 2013 (1.5 year working experience + 7 months Erasmus)   
 >  :fr: **French:** A2 
@@ -61,9 +61,10 @@
 > Able to manage different projects and clients simultaneously
 
 > ### Technical skills
-> - [x] Automotive Engineering   :heavy_check_mark:   
-> - [x] CAD Design   :heavy_check_mark:  :heavy_check_mark:   
-> - [x] CAE Design    :heavy_check_mark:   :heavy_check_mark:   
+[//]: # (- [x] :heavy_check_mark:    :large_blue_diamond:  :large_blue_diamond:  :large_orange_diamond:  :large_white_diamond:)
+>> :heavy_check_mark: Automotive Engineering :blue_square: :blue_square:  :blue_square:  :blue_square: :blue_square:  :blue_square:  :white_large_square: :white_large_square: :white_large_square: :white_large_square:  
+>> :heavy_check_mark: CAD Design   :blue_square: :blue_square:  :blue_square:  :blue_square: :blue_square:  :blue_square:  :blue_square:  :blue_square: :blue_square:  :white_large_square:
+>> :heavy_check_mark: CAE Design    :blue_square: :blue_square:  :blue_square:  :blue_square: :blue_square:  :blue_square:  :blue_square:  :blue_square: :blue_square:  :white_large_square:   
 > - [x] CFD Simulation    :heavy_check_mark:   :heavy_check_mark:   
 > - [x] Coding    :heavy_check_mark: 
 > - [x] Design of Experiments - Optimization    :heavy_check_mark:  :heavy_check_mark: 
