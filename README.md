@@ -7,7 +7,7 @@
 ----------
 
 > ### Contacts
-> <carlo.a.pasquinucci@gmail.com>
+>  :email: <carlo.a.pasquinucci@gmail.com>
 >
 > [GitHub](github.com/Carlopasquinucci)
 >
@@ -24,13 +24,13 @@
 > + **quality management**
 
 > ### Job References: 
-***Simone Cremonesi, Owner of AMTR&D:***
+***Simone Cremonesi, Owner of [AMTR&D](http://amtrd.eu/it):***
 >“Before we met Mr Pasquinucci, our development was based basically on experimental tests. He showed us the potential of the Simulation based Design and under his  >teachings and suggestions, in very few months, we had the opportunity to learn Computation Fluid Dynamics  and perform several simulations with a huge progress of >the development of the new project.” 
  
-***Federico Monterosso, Owner of Omiq S.R.L :***
+***Federico Monterosso, Owner of [Omiq S.R.L](https://www.omiq.it/):***
 >"I had the chance to collaborate with Carlo a couple of years  ago. I was very impressed by his professionalism and >dedication to the project we were working on. >His  technical skills, specifically in the use of CAESES but also in general on shape optimisation, resulted in a  very >successful project.” 
  
-***Stephan Harries, Managing Director of FRIENDSHIP SYSTEMS:***
+***Stephan Harries, Managing Director of [FRIENDSHIP SYSTEMS](https://www.friendship-systems.com/):***
 >“[..] Mr Pasquinucci sets his goals high  without being overambitious or unrealistic. Besides, Mr Pasquinucci is a very friendly and team-oriented 
 >person who forms a valuable part of FRIENDSHIP SYSTEMS’ team. […]” 
 
@@ -47,9 +47,10 @@
 
 
 > ### Languages 
-> **English:** B2 Language Online Exam Erasmus+  OLS, June 2015 (2.5 years working  experience + 7 months Erasmus)   
-> **German:** B1 Language course: ZEMS, Berlin, March 2014 - A2 Language certificate exam Oi, Rome, November 2013 (1.5 year working experience + 7 months Erasmus)   
-> **French:** A2 
+>  :it: **Italian:** Mothertongue 
+>  :gb: **English:** B2 Language Online Exam Erasmus+  OLS, June 2015 (2.5 years working  experience + 7 months Erasmus)   
+> :de: **German:** B1 Language course: ZEMS, Berlin, March 2014 - A2 Language certificate exam Oi, Rome, November 2013 (1.5 year working experience + 7 months Erasmus)   
+>  :fr: **French:** A2 
 
 > ### Soft skills
 > Able to set the goals high without being  overambitious   
@@ -60,22 +61,22 @@
 > Able to manage different projects and clients simultaneously
 
 > ### Technical skills
-> - [x] Automotive Engineering   
-> - [x] CAD Design   
-> - [x] CAE Design    
-> - [x] CFD Simulation    
-> - [x] Coding    
-> - [x] Design of Experiments - Optimization    
-> - [x] FEM Simulation    
-> - [x] Data Post-Processing - Statistics    
-> - [x] Industry 4.0    
-> - [x] Naval Architecture    
-> - [x] Marine Engineering    
-> - [x] Mechanical Engineering    
-> - [x] RAMS – FMEA Analysis    
-> - [x] Six Sigma - Lean Manufacturing    
-> - [x] Technical Design and tolerance analysis    
-> - [x] Technical Customer / Client Service   
+> - [x] Automotive Engineering   :heavy_check_mark:   
+> - [x] CAD Design   :heavy_check_mark:  :heavy_check_mark:   
+> - [x] CAE Design    :heavy_check_mark:   :heavy_check_mark:   
+> - [x] CFD Simulation    :heavy_check_mark:   :heavy_check_mark:   
+> - [x] Coding    :heavy_check_mark: 
+> - [x] Design of Experiments - Optimization    :heavy_check_mark:  :heavy_check_mark: 
+> - [x] FEM Simulation    :heavy_check_mark:   
+> - [x] Data Post-Processing - Statistics    :heavy_check_mark: :heavy_check_mark:   
+> - [x] Industry 4.0    :heavy_check_mark:   
+> - [x] Naval Architecture    :heavy_check_mark:  
+> - [x] Marine Engineering    :heavy_check_mark:  
+> - [x] Mechanical Engineering    :heavy_check_mark:  
+> - [x] RAMS – FMEA Analysis    :heavy_check_mark:  
+> - [x] Six Sigma - Lean Manufacturing    :heavy_check_mark:   
+> - [x] Technical Design and tolerance analysis    :heavy_check_mark:  
+> - [x] Technical Customer / Client Service   :heavy_check_mark:   :heavy_check_mark: 
 
 
 
