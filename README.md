@@ -2,16 +2,16 @@
 
 ----------
 
-> # **Who I am, what I know, what I can do**
-
-----------
-
 > ### Contacts
 >  :email: <carlo.a.pasquinucci@gmail.com>
 >
 > [GitHub](github.com/Carlopasquinucci)
 >
 > [LinkedIn](Linkedin.com/in/carloaugustopasquinucci)
+
+> # **Who I am, what I know, what I can do**
+
+----------
 
 > ### Summary 
 > I am a complete CAE Engineer specialized in **Simulation Based Design for Mechanical Industry**. 
@@ -47,10 +47,10 @@
 
 
 > ### Languages 
->  :it: **Italian:** Mothertongue   
->  :gb: **English:** B2 Language Online Exam Erasmus+  OLS, June 2015 (2.5 years working  experience + 7 months Erasmus)   
-> :de: **German:** B1 Language course: ZEMS, Berlin, March 2014 - A2 Language certificate exam Oi, Rome, November 2013 (1.5 year working experience + 7 months Erasmus)   
->  :fr: **French:** A2 
+>  :it:    **Italian:** Mothertongue   
+>  :gb:    **English:** B2 Language Online Exam Erasmus+  OLS, June 2015 (2.5 years working  experience + 7 months Erasmus)   
+> :de:     **German:** B1 Language course: ZEMS, Berlin, March 2014 - A2 Language certificate exam Oi, Rome, November 2013 (1.5 year working experience + 7 months Erasmus)   
+>  :fr:     **French:** A2 
 
 > ### Soft skills
 > Able to set the goals high without being  overambitious   
@@ -62,22 +62,38 @@
 
 > ### Technical skills
 [//]: # (- [x] :heavy_check_mark:    :large_blue_diamond:  :large_blue_diamond:  :large_orange_diamond:  :large_white_diamond:)
->> :heavy_check_mark: Automotive Engineering :blue_square: :blue_square:  :blue_square:  :blue_square: :blue_square:  :blue_square:  :white_large_square: :white_large_square: :white_large_square: :white_large_square:  
->> :heavy_check_mark: CAD Design   :blue_square: :blue_square:  :blue_square:  :blue_square: :blue_square:  :blue_square:  :blue_square:  :blue_square: :blue_square:  :white_large_square:
->> :heavy_check_mark: CAE Design    :blue_square: :blue_square:  :blue_square:  :blue_square: :blue_square:  :blue_square:  :blue_square:  :blue_square: :blue_square:  :white_large_square:   
-> - [x] CFD Simulation    :heavy_check_mark:   :heavy_check_mark:   
-> - [x] Coding    :heavy_check_mark: 
-> - [x] Design of Experiments - Optimization    :heavy_check_mark:  :heavy_check_mark: 
-> - [x] FEM Simulation    :heavy_check_mark:   
-> - [x] Data Post-Processing - Statistics    :heavy_check_mark: :heavy_check_mark:   
-> - [x] Industry 4.0    :heavy_check_mark:   
-> - [x] Naval Architecture    :heavy_check_mark:  
-> - [x] Marine Engineering    :heavy_check_mark:  
-> - [x] Mechanical Engineering    :heavy_check_mark:  
-> - [x] RAMS – FMEA Analysis    :heavy_check_mark:  
-> - [x] Six Sigma - Lean Manufacturing    :heavy_check_mark:   
-> - [x] Technical Design and tolerance analysis    :heavy_check_mark:  
-> - [x] Technical Customer / Client Service   :heavy_check_mark:   :heavy_check_mark: 
+
+>> :heavy_check_mark: Automotive Engineering:  
+:blue_square: :blue_square:  :blue_square:  :blue_square: :blue_square:  :blue_square:  :white_large_square: :white_large_square: :white_large_square: :white_large_square:  
+>> :heavy_check_mark: CAD Design:    
+ :blue_square: :blue_square:  :blue_square:  :blue_square: :blue_square:  :blue_square:  :blue_square:  :blue_square: :blue_square:  :white_large_square:   
+>> :heavy_check_mark: CAE Design:  
+ :blue_square: :blue_square:  :blue_square:  :blue_square: :blue_square:  :blue_square:  :blue_square:  :blue_square: :blue_square:  :white_large_square:   
+>> :heavy_check_mark: CFD Simulation:    
+ :blue_square: :blue_square:  :blue_square:  :blue_square: :blue_square:  :blue_square:  :blue_square:  :blue_square: :blue_square:  :white_large_square:      
+>> :heavy_check_mark: Coding:  
+ :blue_square: :blue_square:  :blue_square:  :blue_square: :blue_square:  :blue_square:  :white_large_square: :white_large_square: :white_large_square: :white_large_square:  
+>> :heavy_check_mark: Design of Experiments - Optimization:  
+:blue_square: :blue_square:  :blue_square:  :blue_square: :blue_square:  :blue_square:  :blue_square:  :blue_square: :blue_square:  :white_large_square:         
+>> :heavy_check_mark:  FEM Simulation:  
+:blue_square: :blue_square:  :blue_square:  :blue_square: :blue_square:  :blue_square:  :white_large_square: :white_large_square: :white_large_square: :white_large_square:   
+>> :heavy_check_mark: Data Post-Processing - Statistics:   
+:blue_square: :blue_square:  :blue_square:  :blue_square: :blue_square:  :blue_square:  :white_large_square: :white_large_square: :white_large_square: :white_large_square:   
+>> :heavy_check_mark: Industry 4.0:  
+:blue_square: :blue_square:  :blue_square:  :blue_square: :blue_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square:   
+>> :heavy_check_mark:  Naval Architecture:   
+:blue_square: :blue_square:  :blue_square:  :blue_square: :blue_square: :blue_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square:   
+>> :heavy_check_mark:  Mechanical Engineering:   
+:blue_square: :blue_square:  :blue_square:  :blue_square: :blue_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square:  
+>> :heavy_check_mark:  RAMS – FMEA Analysis:  
+:blue_square: :blue_square:  :blue_square:  :blue_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square:   
+>> :heavy_check_mark:   Six Sigma - Lean Manufacturing:  
+:blue_square: :blue_square:  :blue_square:  :blue_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square:  
+>> :heavy_check_mark:   Technical Design and tolerance analysis:  
+:blue_square: :blue_square:  :blue_square:  :blue_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square:   
+>> :heavy_check_mark:   Technical Customer / Client Service:   
+:blue_square: :blue_square:  :blue_square:  :blue_square: :blue_square:  :blue_square:  :blue_square:  :blue_square: :blue_square:  :white_large_square:      
+
 
 
 
