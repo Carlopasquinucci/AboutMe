@@ -85,100 +85,93 @@
 
 ----------
 
- ### **Employement**
+> ### **Employement**
+>
+>> #### Data Analyst – CAE Engineer 
+>> *TechnoHit S.r.l. (Costa Volpino, Bergamo) – technohit.it 
+>> (Engineering Company – CFD – Tolerance Analysis – CAD)   
+>> February 2018 - May 2018 – Learning Internship 
+>> June 2018 - Present - Permanent Contract*
+>> 
+>> - CFD analysis and optimization using ANSYS, OpenFOAM and Starccm+ (80%); 
+>> - Tolerance analysis (with Six Sigma methodology, Pugh matrix, house of quality, data analysis and cost optimization) for automotive industry and drawing check (GPS >> norms) for different clients (10%); 
+>> - Preparation of commercial material (Pre-sales presentations and LinkedIn articles) (10%). 
+>> 
+>> The work is performed among the simulation, the design and the commercial departments of the company,  under three different head of the departments, under minimal  supervision. 
+>> *Main projects:*  
+>> •  CFD Simulation and Optimization: 
+>> -  Injection of a non-newtonian polymer in a heated mold (ANSYS CFX) 
+>> -  Optimization of a heating plate (ANSYS CFX) 
+>> -  Creation of a tool for automatic simulations with OpenFOAM in a Linux Server 
+>> -  Microwave air cooling system simulation (STARCCM+) 
+>> -  Hob air cooling ventilation system simulation (STARCCM+) 
+>> -  Optimization of a carbon blowing equipment (ANSYS CFX) 
+>> -  Ahmed car resistance evaluation with OpenFOAM and ANSYS CFX and ANSYS Fluent 
+>> *Software:* CAD: SpaceClaim, SolidWorks, Cetol Six Sigma (for tolerance analysis) and CAESES 
+>>            Data analysis and optimization: Excel, Python, Dakota 
+>>            CFD: ANSYS (CFX and Fluent), OpenFOAM, STARCCM+ 
+>>            Others: Office, Outlook, LaTex, etc.. 
+>> *Soft Skills:* Client Support, Proactivity, Problem Solving, Time Management, Project Management, Working under minimal Supervision 
+>> *Languages:* Italian, English, German 
 
-------
 
-#### Data Analyst – CAE Engineer 
-*TechnoHit S.r.l. (Costa Volpino, Bergamo) – technohit.it 
-(Engineering Company – CFD – Tolerance Analysis – CAD)   
-February 2018 - May 2018 – Learning Internship 
-June 2018 - Present - Permanent Contract*
+>> #### Freelancer CAE Consultant  
+>> *October 2016 - February 2018*
+>> CAD - CFD - FEM support engineer for different clients, start-ups and small companies: 
+>> -*OMIQ S.R.L. (Milan, Italy) - omiq.it - (CFD Consultancy Company)*
+>> Responsible for a valve optimization (Simerics MP) 
+>> Responsible for the creation of a Python script for a customer for the conversion of different CFD formats 
+>> -*AMT R&D (Desio, MB, Italy) - amtrd.eu - (Industrial Ventilator Company - R&D Department)*
+>> Teacher of CFD simulation software (ConSelf, OpenFOAM based): “Introduction to CFD Simulation: from geometry preparation to Postprocessing” 
+>> Supervisor of CFD simulations performed by the company.
+>> -*CONSELF S.R.L. (CONsulting by yourSELF) (Milan, Italy) - conself.com - (Software CFD and FEM on-Cloud)*
+>> Responsible of the customer service and support for two clients 
+>> Responsible of the creation of tutorials 
+>> -*MZ YACHT DESIGN (Rivoli, Turin, Italy) - facebook.com/MZYachtDesign (Yacht Design)*
+>> Responsible of the simulations of two rudders in different configurations and speeds 
+>>  
+>> The work was performed 70% individually, 20% directly under the supervision of the different CEO of the companies (during technical meetings or with mails and reports), 10% in collaboration with a colleague (team working, mails, skype). 
+>>
+>> *Software:*    CFD-FEM: OpenFOAM, ConSelf, Simerics MP 
+>> Data Analysis: Python, Paraview 
+>> CAD: CAESES, Solidworks 
+>> Technical Report: Office, Google Drive 
+>> Support: Skype, TeamViewer 
+>>
+>> *Soft Skills:* Project Management, Time Management, Cost Management, Clients and Customers  Management, Work remotely and under Minimal Supervision, Work Individually, Teaching 
+>> *Languages:* Italian, English 
  
-- CFD analysis and optimization using ANSYS, OpenFOAM and Starccm+ (80%); 
-- Tolerance analysis (with Six Sigma methodology, Pugh matrix, house of quality, data analysis and cost optimization) for automotive industry and drawing check (GPS norms) for different clients (10%); 
-- Preparation of commercial material (Pre-sales presentations and LinkedIn articles) (10%). 
+>> #### ILS Engineer 
+>> *ISSELNORD S.P.A. (Follo, La Spezia) - isselnord.it 
+>> January 2017- May 2017 - Stage*
+>> Maintainability analyses (FMEA, FMECA, RBD…) for lifting and handling machinery build by M.E.P for  FINCANTIERI and BAE Systems 
+>> Technical publications and maintenance manuals for lifting and handling machinery build by M.E.P for  FINCANTIERI and BAE Systems 
+>> *Software:* MS Office, AutoCad 
+>> *Soft Skills:* Project Management, Team Work, Working under Supervision 
  
-The work is performed among the simulation, the design and the commercial departments of the company,  under three different head of the departments, under minimal supervision. 
-*Main projects:*  
-•  CFD Simulation and Optimization: 
--  Injection of a non-newtonian polymer in a heated mold (ANSYS CFX) 
--  Optimization of a heating plate (ANSYS CFX) 
--  Creation of a tool for automatic simulations with OpenFOAM in a Linux Server 
--  Microwave air cooling system simulation (STARCCM+) 
--  Hob air cooling ventilation system simulation (STARCCM+) 
--  Optimization of a carbon blowing equipment (ANSYS CFX) 
--  Ahmed car resistance evaluation with OpenFOAM and ANSYS CFX and ANSYS Fluent 
-*Software:* CAD: SpaceClaim, SolidWorks, Cetol Six Sigma (for tolerance analysis) and CAESES 
-           Data analysis and optimization: Excel, Python, Dakota 
-           CFD: ANSYS (CFX and Fluent), OpenFOAM, STARCCM+ 
-           Others: Office, Outlook, LaTex, etc.. 
-*Soft Skills:* Client Support, Proactivity, Problem Solving, Time Management, Project Management, Working under minimal Supervision 
-*Languages:* Italian, English, German 
+>> #### CAE Consultant and Presales Engineer 
+>> *FRIENDSHIP - SYSTEMS A.G. (Potsdam, Germany) - Friendship-Systems.com 
+>> CAE Software and CAE Consultancy Company for Marine and Mechanical Industry)
+>> February 2015 – December 2015 Part-time worker 40 hours per month 
+>> January 2015 – September 2016 Part-time worker 60 hours per month*
+>> Industrial parametric design, free form deformation, optimization algorithms, data postprocessing; 
+>> Customer and client support through mails, HelpDesk and Forum; 
+>> Tutorial, best practise and samples creation. 
+>> 
+>> The majority of the work consisted in customer and client support for German and International customers, with forum, helpdesk and calls, supporting them in project optimizations, and in the design of samples or tutorials, with technical reports and presentations. 
+>> Furthermore, I was responsible of the integration in the software of the Free Form Deformation and the DAKOTA Optimizer. 
  
-#### Freelancer CAE Consultant  
-*October 2016 - February 2018*
-CAD - CFD - FEM support engineer for different clients, start-ups and small companies: 
--*OMIQ S.R.L. (Milan, Italy) - omiq.it - (CFD Consultancy Company)*
-Responsible for a valve optimization (Simerics MP) 
-Responsible for the creation of a Python script for a customer for the conversion of different CFD formats 
--*AMT R&D (Desio, MB, Italy) - amtrd.eu - (Industrial Ventilator Company - R&D Department)*
-Teacher of CFD simulation software (ConSelf, OpenFOAM based): “Introduction to CFD Simulation: from geometry preparation to Postprocessing” 
-Supervisor of CFD simulations performed by the company.
--*CONSELF S.R.L. (CONsulting by yourSELF) (Milan, Italy) - conself.com - (Software CFD and FEM on-Cloud)*
-Responsible of the customer service and support for two clients 
-Responsible of the creation of tutorials 
--*MZ YACHT DESIGN (Rivoli, Turin, Italy) - facebook.com/MZYachtDesign (Yacht Design)*
-Responsible of the simulations of two rudders in different configurations and speeds 
+>> Main Projects: Design and Optimization of Existing Ships, Intake Ports and Car Exhaust System 
+>> Software: CAESES, DAKOTA, Office, LibreOffice 
+>> Soft Skills: Working under Minimal Supervision, Customer Service and Support and Management 
+>> Languages: English, German, Italian 
  
-The work was performed 70% individually, 20% directly under the supervision of the different CEO of the 
-companies (during technical meetings or with mails and reports), 10% in collaboration with a colleague (team 
-working, mails, skype). 
- 
-*Software:*    CFD-FEM: OpenFOAM, ConSelf, Simerics MP 
-Data Analysis: Python, Paraview 
-CAD: CAESES, Solidworks 
-Technical Report: Office, Google Drive 
-Support: Skype, TeamViewer 
- 
-*Soft Skills:* Project Management, Time Management, Cost Management, Clients and Customers 
-Management, Work remotely and under Minimal Supervision, Work Individually, Teaching 
-*Languages:* Italian, English 
- 
-#### ILS Engineer 
-*ISSELNORD S.P.A. (Follo, La Spezia) - isselnord.it 
-January 2017- May 2017 - Stage*
-Maintainability analyses (FMEA, FMECA, RBD…) for lifting and handling machinery build by M.E.P for  FINCANTIERI and BAE Systems 
-Technical publications and maintenance manuals for lifting and handling machinery build by M.E.P for  FINCANTIERI and BAE Systems 
-*Software:* MS Office, AutoCad 
-*Soft Skills:* Project Management, Team Work, Working under Supervision 
- 
-#### CAE Consultant and Presales Engineer 
-*FRIENDSHIP - SYSTEMS A.G. (Potsdam, Germany) - Friendship-Systems.com 
-CAE Software and CAE Consultancy Company for Marine and Mechanical Industry)
-February 2015 – December 2015 Part-time worker 40 hours per month 
-January 2015 – September 2016 Part-time worker 60 hours per month*
-Industrial parametric design, free form deformation, optimization algorithms, data postprocessing; 
-Customer and client support through mails, HelpDesk and Forum; 
-Tutorial, best practise and samples creation. 
- 
-The majority of the work consisted in customer and client support for German and International customers, 
-with forum, helpdesk and calls, supporting them in project optimizations, and in the design of samples or 
-tutorials, with technical reports and presentations. 
-Furthermore, I was responsible of the integration in the software of the Free Form Deformation and the 
-DAKOTA Optimizer. 
- 
-Main Projects: Design and Optimization of Existing Ships, Intake Ports and Car Exhaust System 
-Software: CAESES, DAKOTA, Office, LibreOffice 
-Soft Skills: Working under Minimal Supervision, Customer Service and Support and Management 
-Languages: English, German, Italian 
- 
-#### Assistant of Mechanical Engineers 
-*IGNAZIO MESSINA S.P.A. - INTERNSHIP (Genoa, Italy) - messinaline.it 
-Academic Internship - December 2012 – January 2013*
-The work, performed in a repair shipyard, consisted in the planning, scheduling and executing of repairs on 
-board and in the steel structural shop. 
-*Soft Skills:* Project Management, Time Management, Workers Supervision 
+>> #### Assistant of Mechanical Engineers 
+>> *IGNAZIO MESSINA S.P.A. - INTERNSHIP (Genoa, Italy) - messinaline.it 
+>> Academic Internship - December 2012 – January 2013*
+>> The work, performed in a repair shipyard, consisted in the planning, scheduling and executing of repairs on 
+>> board and in the steel structural shop. 
+>> *Soft Skills:* Project Management, Time Management, Workers Supervision 
 
 
 
