@@ -6,13 +6,33 @@
 > [GitHub](github.com/Carlopasquinucci)
 >
 > [LinkedIn](Linkedin.com/in/carloaugustopasquinucci)
+>
+> [cfdOnline profile](https://www.cfd-online.com/Forums/members/carlo_p.html)
+
 
 
 ### contents
-[pp](#who-i-am-what-i-know-what-i-can-do)
-[Summary](#summary)   
+- [Who I am what I know what I can do](#who-i-am-what-i-know-what-i-can-do)
+     - [Summary](#summary)   
+     - [Job References](#job-references)
+     - [Software](#software)
+     - [Languages](#languages)
+     - [Soft Skills](#soft-skills)     
+     - [Technical Skills](#technical-skills)     
+ - [What I did](#what-i-did)
+     - [Career History](#carrer-history)  
+     - [Publications](#carrer-history)
+  - [What I learned](#what-i-did)
+    - [Courses](#courses)
+    - [University](#university)
+    - [High School](#high-school)
 
-[References](#job-references)
+----------
+
+> ### **Employement**
+
+     
+     
 
 > # Contacts
 >  :email: <carlo.a.pasquinucci@gmail.com>
@@ -62,7 +82,7 @@
 > :de:     **German:** B1 Language course: ZEMS, Berlin, March 2014 - A2 Language certificate exam Oi, Rome, November 2013 (1.5 year working experience + 7 months Erasmus)   
 >  :fr:     **French:** A2 
 
-> ### Soft skills
+> ### Soft Skills
 > - *Able to set the goals high without being  overambitious*     
 > - *Able to quickly embrace new ideas and  methods*             
 > - *Solution oriented and proactive worker*        
@@ -71,7 +91,7 @@
 > - *Able to manage different projects and clients simultaneously*    
 
 
-> ### Technical skills
+> ### Technical Skills
 [//]: # (- [x] :heavy_check_mark:    :large_blue_diamond:  :large_blue_diamond:  :large_orange_diamond:  :large_white_diamond:)
 
 >> :heavy_check_mark: Automotive Engineering:  
@@ -114,7 +134,7 @@
 
 ----------
 
-> ### **Employement**
+> ### **Career History**
 >
 ***Data Analyst – CAE Engineer***
 >> *TechnoHit S.r.l. (Costa Volpino, Bergamo) – technohit.it 
@@ -203,53 +223,60 @@
 >> Academic Internship - December 2012 – January 2013*
 >> The work, performed in a repair shipyard, consisted in the planning, scheduling and executing of repairs on board and in the steel structural shop. 
 >> **Soft Skills:** Project Management, Time Management, Workers Supervision 
+>
+> ### **Publications**
+>
+***Conference Articles:***   
+>>“Learning from Results: Data Based Project Based on CFD Simulations”, International CAE Conference, Vicenza, October 2018  
+>>“A Fast Optimization Algorithm for Greener Ship Design”, International CAE Conference, Vicenza, November 2017   
+>>“Significance of Parametric Hull Form Definition on Hydrodynamic Performance Optimization”, VI Compit 2015, Rome, Italy   
 
+***Poster Sessions:***    
+>>“Logarithmic Spiral Based Volute Design and Optimization” CAESES European Users’ Meeting, 2019  
+>>“Sparse Free Form Deformation for Faster Hull Optimization” CAESES European Users’ Meeting, 2017  
+>>“Hull Coefficients Sensitivity Analysis with Modern Methods” International CAE Conference, Vicenza, 2017     
 
-
+***Contest:***     
+>>“Free Form Deformation and Surrogate Surface: A Help in Greener Ship Design” Winner TraVisions Contest 2018 – European Contest for Master Thesis – Waterborne Section  
 
 ----------
 
-> # **What I'm studing and researching**
+> # **What I learned**
 
 ----------
+>### **Courses
+***CFD:***   
+>> [“OpenFOAM Advanced Trainging”, July 2020, WolfsDynamics](http://www.wolfdynamics.com/our-services/training/topenfoam-advanced-training.html)   
+>> [“OpenFOAM Introductory Training”, June 2019, WolfsDynamics](http://www.wolfdynamics.com/our-services/training/openfoam-intro-training.html)   
+>> [“SimScale FEA Master Class”, Simscale Academy](https://www.simscale-academy.com/)   
+>> [“SimScale CFD Master Class”, Simscale Academy](https://www.simscale-academy.com/)   
+>> [“Applications of CFD in Formula Student and Formula SAE”, Simscale Academy](https://www.simscale-academy.com/)   
+>> ["Introduction to Computer-Aided Engineering (CAE)”, Simscale Academy](https://www.simscale-academy.com/)   
+>> [“OpenFOAM: Analisi CFD per la Fluidodinamica”, (100/100), LifeLearning](https://lifelearning.it/corso-online/corso-online-openfoam-analisi-cfd-per-la-fluidodinamica/)    
+>> [“A Hands-on Introduction to Engineering Simulations”, (82/100), edX in with ANSYS Support](https://www.edx.org/course/a-hands-on-introduction-to-engineering-simulations)  
 
-PUBLICATIONS:
-Conference Articles:
-“Learning from Results: Data Based Project Based on CFD Simulations”,
-International CAE Conference, Vicenza, October 2018
-“A Fast Optimization Algorithm for Greener Ship Design”
-International CAE Conference, Vicenza, November 2017
-“Significance of Parametric Hull Form Definition on Hydrodynamic Performance Optimization”
-VI Compit 2015, Rome, Italy
-Poster Sessions:
-“Logarithmic Spiral Based Volute Design and Optimization” CAESES European Users’ Meeting, 2019
-“Sparse Free Form Deformation for Faster Hull Optimization” CAESES European Users’ Meeting, 2017
-“Hull Coefficients Sensitivity Analysis with Modern Methods” International CAE Conference, Vicenza, 2017
-Contest:
-“Free Form Deformation and Surrogate Surface: A Help in Greener Ship Design”
-Winner TraVisions Contest 2018 – European Contest for Master Thesis – Waterborne Section
-TRAINING:
-“OpenFOAM Introductory Training”, June 2019, WolfsDynamics
-“Cetol Six Sigma”, June 2018, Enrico Boesso, Enginsoft
-“GPS – Specifiche Geometriche di Prodotto”, September 2018, Roberto Frizza, University of Bergamo
- LinkedIn Learning:
+***Coding:***   
+>> [“Learning Bash Scripting”, LinkedIn Learning](https://www.linkedin.com/learning/learning-bash-scripting)  
+>> [“Learning Linux Shell Scripting”, LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-shell-scripting-2)  
+>> [“Introduction to Python for Data Science”, (91/100), edX](https://www.edx.org/course/introduction-to-python-for-data-science-6?source=aw&awc=6798_1601028882_7bdc85fa9681cc5efeaf5b155b0ec8d6&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=301045_https%3A%2F%2Fwww.class-central.com%2F)  
+
+***CAD:***   
+>> [“Cetol Six Sigma”, June 2018, Enrico Boesso, Enginsoft](https://www.enginsoft.com/training/corso-software-cetol-6%CF%83.html)  
+>> [“GPS – Specifiche Geometriche di Prodotto”, September 2018, Roberto Frizza, University of Bergamo](http://www.cmmclub.it/cmmsite/index.php/attivita/formazione/corsi-di-formazione)
+
+***Managment and Quality Controll:***   
 “Operational Excellence Foundations”
 “Project Management Foundations: Quality”
 “Six Sigma: Green Belt”
 “Six Sigma Foundations”
-“Learning Bash Scripting”
-“Leaning Linux Shell Scripting”
- SimScale Academy:
-“SimScale FEA Master Class”
-“SimScale CFD Master Class”
-“Applications of CFD in Formula Student &
-Formula SAE”
-“Introduction to CAE”
-Other:
-“OpenFOAM: Analisi CFD per la Fluidodinamica”, (100/100), LifeLearning, Ing. Christian Bortone from Engify
-“Introduction to Python for Data Science”, (91/100), edX
-“A Hands-on Introduction to Engineering Simulations”, (82/100), edX in with ANSYS Support
-“Simulation-driven Design Principles in Application of CAESES”, Friendship-Systems AG, Berlin
+
+
+
+
+
+
+
+>**University***
 INGEGNERIA NAVALE - UNIVERSITY OF GENOA
 September 2009 – September 2016
 Master Degree: 105/110
@@ -260,6 +287,7 @@ Bachelor Thesis: Preliminary design of a 12,380 DWT Chemical Tanker (February, 2
 TU – BERLIN - ERASMUS STUDENT
 March 2014 – September 2014
 Lessons in German, Exams in German and English
+>**High School***
 LINGUISTIC AND SCIENTIFIC LYCEUM ELIO VITTORINI (Milan, Italy)
 Languages German and English
 
