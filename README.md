@@ -1,15 +1,27 @@
-# Experienced CFD Engineer - CAE Analyst
+# Experienced CFD Engineer - CAE Analyst - Client Support
 
-
-
-> ### Contacts
+> # Contacts
 >  :email: <carlo.a.pasquinucci@gmail.com>
 >
 > [GitHub](github.com/Carlopasquinucci)
 >
 > [LinkedIn](Linkedin.com/in/carloaugustopasquinucci)
 
-> # **Who I am, what I know, what I can do**
+
+### contents
+[pp](#who-i-am-what-i-know-what-i-can-do)
+[Summary](#summary)   
+
+[References](#job-references)
+
+> # Contacts
+>  :email: <carlo.a.pasquinucci@gmail.com>
+>
+> [GitHub](github.com/Carlopasquinucci)
+>
+> [LinkedIn](Linkedin.com/in/carloaugustopasquinucci)
+
+> # **Who I am what I know what I can do**
 
 ----------
 
@@ -23,7 +35,7 @@
 > + **data analysis**
 > + **quality management**
 
-> ### Job References: 
+> ### Job References
 ***Simone Cremonesi, Owner of [AMTR&D](http://amtrd.eu/it):***
 >“Before we met Mr Pasquinucci, our development was based basically on experimental tests. He showed us the potential of the Simulation based Design and under his  >teachings and suggestions, in very few months, we had the opportunity to learn Computation Fluid Dynamics  and perform several simulations with a huge progress of >the development of the new project.” 
  
