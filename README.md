@@ -12,16 +12,18 @@
 
 
 ### contents
-- [Who I am what I know what I can do](#who-i-am-what-i-know-what-i-can-do)
+- [Who I am](#who-i-am)
      - [Summary](#summary)   
      - [Job References](#job-references)
+     - [Soft Skills](#soft-skills) 
+     - [Sports Hobbies and Voluntary Organisation](#sports-hobbies-and-voluntary-organisation)
+ - [What I know](#what-i-know)
      - [Software](#software)
-     - [Languages](#languages)
-     - [Soft Skills](#soft-skills)     
+     - [Languages](#languages)    
      - [Technical Skills](#technical-skills)     
  - [What I did](#what-i-did)
-     - [Career History](#carrer-history)  
-     - [Publications](#carrer-history)
+     - [Career History](#career-history)
+     - [Publications](#publications)
   - [What I learned](#what-i-did)
     - [Courses](#courses)
     - [University](#university)
@@ -29,19 +31,7 @@
 
 ----------
 
-> ### **Employement**
-
-     
-     
-
-> # Contacts
->  :email: <carlo.a.pasquinucci@gmail.com>
->
-> [GitHub](github.com/Carlopasquinucci)
->
-> [LinkedIn](Linkedin.com/in/carloaugustopasquinucci)
-
-> # **Who I am what I know what I can do**
+> # **Who I am**
 
 ----------
 
@@ -66,6 +56,29 @@
 >“[..] Mr Pasquinucci sets his goals high  without being overambitious or unrealistic. Besides, Mr Pasquinucci is a very friendly and team-oriented 
 >person who forms a valuable part of FRIENDSHIP SYSTEMS’ team. […]” 
 
+> ### Soft Skills
+> - *Able to set the goals high without being overambitious*     
+> - *Able to quickly embrace new ideas and  methods*             
+> - *Solution oriented and proactive worker*        
+> - *Holistic viewer and conceptual thinker*   
+> - *Able to see the “big picture” , understanding the goal and the need of the entire team 
+> - *Able to work in a team, individually or under minimal supervision*   
+> - *Able to manage different projects and clients simultaneously*   
+
+> ### Sports Hobbies and Voluntary Organisation
+> - Outdoor sports in contact with nature: Cycling, Sailing, Windsurfing, Trekking
+> - Explore the world in a slow and green way, in particolar, in unsupported [bikepacking trip](https://bikepacking.com/bikepacking-101/)
+> - Host and give hospitality to travelling people through the [Couchsurfing association](https://en.wikipedia.org/wiki/CouchSurfing)
+> - Organizer and active partecipant at the [*Critical Mass*](https://en.wikipedia.org/wiki/Critical_Mass_(cycling)) in Brescia
+> - Organizer and active partecipant a the *Speak English! Valcamonica*
+> - Promoter and active partecipant at the [*Banco Alimentare*](www.bancoalimentare.it) (An Italian food bank)
+
+
+----------
+
+> # **What I know**
+
+----------
 > ### Software
 > ***O.S.:*** Windows, Linux   
 > ***Languages:*** Python, Matlab, Visual Basic (Basic), C (Basic), GitHub   
@@ -80,15 +93,7 @@
 >  :it:    **Italian:** Mothertongue   
 >  :gb:    **English:** B2 Language Online Exam Erasmus+  OLS, June 2015 (2.5 years working  experience + 7 months Erasmus)   
 > :de:     **German:** B1 Language course: ZEMS, Berlin, March 2014 - A2 Language certificate exam Oi, Rome, November 2013 (1.5 year working experience + 7 months Erasmus)   
->  :fr:     **French:** A2 
-
-> ### Soft Skills
-> - *Able to set the goals high without being  overambitious*     
-> - *Able to quickly embrace new ideas and  methods*             
-> - *Solution oriented and proactive worker*        
-> - *Holistic viewer and conceptual thinker*     
-> - *Able to work in a team, individually or under minimal supervision*   
-> - *Able to manage different projects and clients simultaneously*    
+>  :fr:     **French:** A2   
 
 
 > ### Technical Skills
@@ -244,7 +249,7 @@
 > # **What I learned**
 
 ----------
->### **Courses
+>### **Courses**
 ***CFD:***   
 >> [“OpenFOAM Advanced Trainging”, July 2020, WolfsDynamics](http://www.wolfdynamics.com/our-services/training/topenfoam-advanced-training.html)   
 >> [“OpenFOAM Introductory Training”, June 2019, WolfsDynamics](http://www.wolfdynamics.com/our-services/training/openfoam-intro-training.html)   
@@ -263,33 +268,30 @@
 ***CAD:***   
 >> [“Cetol Six Sigma”, June 2018, Enrico Boesso, Enginsoft](https://www.enginsoft.com/training/corso-software-cetol-6%CF%83.html)  
 >> [“GPS – Specifiche Geometriche di Prodotto”, September 2018, Roberto Frizza, University of Bergamo](http://www.cmmclub.it/cmmsite/index.php/attivita/formazione/corsi-di-formazione)
+>> [“Introduction to Geometric Dimensioning and Tolerancing", Linkedin Learning](https://www.linkedin.com/learning/introduction-to-geometric-dimensioning-and-tolerancing)
+>> [“Introduction to Geometric Dimensioning and Tolerancing", Linkedin Learning](https://www.linkedin.com/learning/introduction-to-geometric-dimensioning-and-tolerancing)
 
 ***Managment and Quality Controll:***   
-“Operational Excellence Foundations”
-“Project Management Foundations: Quality”
-“Six Sigma: Green Belt”
-“Six Sigma Foundations”
+>> [“Operational Excellence Foundations", Linkedin Learning](https://www.linkedin.com/learning/operational-excellence-foundations)   
+>> [“Project Management Foundations: Quality”, Linkedin Learning](https://www.linkedin.com/learning/project-management-foundations-quality)   
+>> [“Six Sigma Foundations”, Linkedin Learning](https://www.linkedin.com/learning/six-sigma-green-belt)   
+>> [“Six Sigma: Green Belt”, Linkedin Learning](https://www.linkedin.com/learning/six-sigma-foundations)  
 
 
 
-
-
-
-
->**University***
-INGEGNERIA NAVALE - UNIVERSITY OF GENOA
-September 2009 – September 2016
-Master Degree: 105/110
-Master Thesis: Free Form Deformation and Surrogate Models for Exploration, Sensitivity and Optimization of
-Complex Hull Forms
-(In collaboration with Friendship-Systems AG) – Winner of TRAVisions 2018 European Contest
-Bachelor Thesis: Preliminary design of a 12,380 DWT Chemical Tanker (February, 2013), 4-People Team Work
-TU – BERLIN - ERASMUS STUDENT
-March 2014 – September 2014
-Lessons in German, Exams in German and English
->**High School***
-LINGUISTIC AND SCIENTIFIC LYCEUM ELIO VITTORINI (Milan, Italy)
-Languages German and English
+>### **University***
+***[INGEGNERIA NAVALE - UNIVERSITY OF GENOA](https://corsi.unige.it/8722)***   
+*September 2009 – September 2016*  
+**Master Degree: 105/110**  
+*Master Thesis: Free Form Deformation and Surrogate Models for Exploration, Sensitivity and Optimization of Complex Hull Forms*  
+(In collaboration with Friendship-Systems AG) – [Winner of TRAVisions 2018 European Contest](https://www.travisions.eu/TRAVisions/young_researcher_results_2018/) - [Presentation Video](https://youtu.be/v5UBHdiCg_w)
+Bachelor Thesis: Preliminary design of a 12,380 DWT Chemical Tanker (February, 2013), 4-People Team Work  
+TU – BERLIN - ERASMUS STUDENT 
+March 2014 – September 2014  
+Lessons in German, Exams in German and English  
+>**High School***  
+[LINGUISTIC AND SCIENTIFIC LYCEUM ELIO VITTORINI (Milan, Italy)](https://www.eliovittorini.edu.it/)
+Languages German and English  
 
 
 
