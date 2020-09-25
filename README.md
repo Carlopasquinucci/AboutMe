@@ -65,7 +65,7 @@
 > - *Able to work in a team, individually or under minimal supervision*   
 > - *Able to manage different projects and clients simultaneously*   
 
-> ### Sports Hobbies and Voluntary Organisation
+> ### Sports, Hobbies and Voluntary Organisations
 > - Outdoor sports in contact with nature: Cycling, Sailing, Windsurfing, Trekking
 > - Explore the world in a slow and green way, in particolar, in unsupported [bikepacking trip](https://bikepacking.com/bikepacking-101/)
 > - Host and give hospitality to travelling people through the [Couchsurfing association](https://en.wikipedia.org/wiki/CouchSurfing)
