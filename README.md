@@ -3,7 +3,7 @@
 # Experienced CFD Engineer - CAE Analyst - Customer Success Engineer
 
 > # Contacts
->  :email: <carlo.a.pasquinucci@gmail.com>  
+> <carlo.a.pasquinucci@gmail.com>  
 > [GitHub](github.com/Carlopasquinucci)  
 > [LinkedIn](Linkedin.com/in/carloaugustopasquinucci)  
 > [cfdOnline profile](https://www.cfd-online.com/Forums/members/carlo_p.html)  
