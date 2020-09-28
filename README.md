@@ -5,9 +5,9 @@
 > # Contacts
 
 > <carlo.a.pasquinucci@gmail.com>  
-> [GitHub](github.com/Carlopasquinucci)  
-> [LinkedIn](Linkedin.com/in/carloaugustopasquinucci)  
-> [cfdOnline profile](https://www.cfd-online.com/Forums/members/carlo_p.html)  
+> [GitHub Repositories](github.com/Carlopasquinucci)  
+> [LinkedIn Profile](Linkedin.com/in/carloaugustopasquinucci)  
+> [cfdOnline Profile](https://www.cfd-online.com/Forums/members/carlo_p.html)  
 
 
 
