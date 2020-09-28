@@ -4,7 +4,7 @@ Verion=0
 Subversion=1
 Date=25 September 2020
 
-# Experienced CFD Engineer - CAE Analyst - Client Support
+# Experienced CFD Engineer - CAE Analyst - Customer Success Engineer
 
 > # Contacts
 >  :email: <carlo.a.pasquinucci@gmail.com>
@@ -22,7 +22,7 @@ Date=25 September 2020
      - [Summary](#summary)   
      - [Job References](#job-references)
      - [Soft Skills](#soft-skills) 
-     - [Sports Hobbies and Voluntary Organisation](#sports-hobbies-and-voluntary-organisation)
+     - [Sports Hobbies and Voluntary Organisation](#sports-hobbies-and-voluntary-organisations)
  - [What I know](#what-i-know)
      - [Software](#software)
      - [Languages](#languages)    
@@ -33,7 +33,7 @@ Date=25 September 2020
   - [What I learned](#what-i-did)
     - [Courses](#courses)
     - [University](#university)
-    - [High School](#high-school)
+    - [High School](#high-school) 
 
 ----------
 
@@ -292,14 +292,13 @@ Date=25 September 2020
 >>*Master Thesis: Free Form Deformation and Surrogate Models for Exploration, Sensitivity and Optimization of Complex Hull Forms*  
 >>(In collaboration with Friendship-Systems AG) – [Winner of TRAVisions 2018 European Contest](https://www.travisions.eu/TRAVisions/young_researcher_results_2018/) - [Presentation Video](https://youtu.be/v5UBHdiCg_w)  
 >>Bachelor Thesis: Preliminary design of a 12,380 DWT Chemical Tanker (February, 2013), 4-People Team Work  
->>TU – BERLIN - ERASMUS STUDENT 
+>>[TU – BERLIN](https://www.marsys.tu-berlin.de/menue/home/) - ERASMUS STUDENT 
 >>March 2014 – September 2014  
 >>Lessons in German, Exams in German and English
 
->**High School***  
->>[LINGUISTIC AND SCIENTIFIC LYCEUM ELIO VITTORINI (Milan, Italy)](https://www.eliovittorini.edu.it/)
+***High School***
+>>*[LINGUISTIC AND SCIENTIFIC LYCEUM ELIO VITTORINI (Milan, Italy)](https://www.eliovittorini.edu.it/)*
 >>Languages German and English  
-
 
 
 
