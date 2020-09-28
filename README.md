@@ -285,19 +285,20 @@ Date=25 September 2020
 
 
 
->### **University***
+>### **University**
 ***[INGEGNERIA NAVALE - UNIVERSITY OF GENOA](https://corsi.unige.it/8722)***   
-*September 2009 – September 2016*  
-**Master Degree: 105/110**  
-*Master Thesis: Free Form Deformation and Surrogate Models for Exploration, Sensitivity and Optimization of Complex Hull Forms*  
-(In collaboration with Friendship-Systems AG) – [Winner of TRAVisions 2018 European Contest](https://www.travisions.eu/TRAVisions/young_researcher_results_2018/) - [Presentation Video](https://youtu.be/v5UBHdiCg_w)
-Bachelor Thesis: Preliminary design of a 12,380 DWT Chemical Tanker (February, 2013), 4-People Team Work  
-TU – BERLIN - ERASMUS STUDENT 
-March 2014 – September 2014  
-Lessons in German, Exams in German and English  
+>>*September 2009 – September 2016*  
+>>**Master Degree: 105/110**  
+>>*Master Thesis: Free Form Deformation and Surrogate Models for Exploration, Sensitivity and Optimization of Complex Hull Forms*  
+>>(In collaboration with Friendship-Systems AG) – [Winner of TRAVisions 2018 European Contest](https://www.travisions.eu/TRAVisions/young_researcher_results_2018/) - [Presentation Video](https://youtu.be/v5UBHdiCg_w)  
+>>Bachelor Thesis: Preliminary design of a 12,380 DWT Chemical Tanker (February, 2013), 4-People Team Work  
+>>TU – BERLIN - ERASMUS STUDENT 
+>>March 2014 – September 2014  
+>>Lessons in German, Exams in German and English
+
 >**High School***  
-[LINGUISTIC AND SCIENTIFIC LYCEUM ELIO VITTORINI (Milan, Italy)](https://www.eliovittorini.edu.it/)
-Languages German and English  
+>>[LINGUISTIC AND SCIENTIFIC LYCEUM ELIO VITTORINI (Milan, Italy)](https://www.eliovittorini.edu.it/)
+>>Languages German and English  
 
 
 
