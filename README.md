@@ -48,14 +48,13 @@
 
 > ### Job References
 ***Simone Cremonesi, Owner of [AMTR&D](http://amtrd.eu/it):***
->“Before we met Mr Pasquinucci, our development was based basically on experimental tests. He showed us the potential of the Simulation based Design and under his  >teachings and suggestions, in very few months, we had the opportunity to learn Computation Fluid Dynamics  and perform several simulations with a huge progress of >the development of the new project.” 
+>“Before we met Mr Pasquinucci, our development was based basically on experimental tests. He showed us the potential of the Simulation based Design and under his  teachings and suggestions, in very few months, we had the opportunity to learn Computation Fluid Dynamics and perform several simulations with a huge progress of the development of the new project.” 
  
 ***Federico Monterosso, Owner of [Omiq S.R.L](https://www.omiq.it/):***
->"I had the chance to collaborate with Carlo a couple of years  ago. I was very impressed by his professionalism and >dedication to the project we were working on. >His  technical skills, specifically in the use of CAESES but also in general on shape optimisation, resulted in a  very >successful project.” 
+>"I had the chance to collaborate with Carlo a couple of years  ago. I was very impressed by his professionalism and dedication to the project we were working on. His  technical skills, specifically in the use of CAESES but also in general on shape optimisation, resulted in a  very successful project.” 
  
 ***Stephan Harries, Managing Director of [FRIENDSHIP SYSTEMS](https://www.friendship-systems.com/):***
->“[..] Mr Pasquinucci sets his goals high  without being overambitious or unrealistic. Besides, Mr Pasquinucci is a very friendly and team-oriented 
->person who forms a valuable part of FRIENDSHIP SYSTEMS’ team. […]” 
+>“[..] Mr Pasquinucci sets his goals high  without being overambitious or unrealistic. Besides, Mr Pasquinucci is a very friendly and team-oriented  person who forms a valuable part of FRIENDSHIP SYSTEMS’ team. […]” 
 
 > ### Soft Skills
 > - *Able to set the goals high without being overambitious*     
@@ -301,8 +300,7 @@
 >*In compliance with the GDPR and the Italian Legislative Decree no. 196 dated 30/06/2003, I hereby authorize you to use and process my personal details contained in this document*
 
 **Disclaimer**
->*Please note that this is a beta version. This document is still undergoing final testing before its official release.*
->*All data reported in this document are correct, but not complete.*
+>*Please note that this is a beta version. This document is still undergoing final testing before its official release. All data reported in this document are correct, but not complete.*
 
 >Version=0  Subversion=1 Date=25 September 2020
 
