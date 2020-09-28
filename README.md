@@ -279,18 +279,18 @@
 
 
 >### **University**
-***[Ingegneria Navale](https://corsi.unige.it/8722)***   
+***[Ingegneria Navale - University of Genoa](https://corsi.unige.it/8722)***   
 >>*September 2009 – September 2016*  
 >>**Master Degree: 105/110**  
 >>*Master Thesis: Free Form Deformation and Surrogate Models for Exploration, Sensitivity and Optimization of Complex Hull Forms*  
 >>(In collaboration with Friendship-Systems AG) – [Winner of TRAVisions 2018 European Contest](https://www.travisions.eu/TRAVisions/young_researcher_results_2018/) - [Presentation Video](https://youtu.be/v5UBHdiCg_w)  
 >>Bachelor Thesis: Preliminary design of a 12,380 DWT Chemical Tanker (February, 2013), 4-People Team Work  
->>[TU – BERLIN](https://www.marsys.tu-berlin.de/menue/home/) - ERASMUS STUDENT 
+***[TU – Berlin](https://www.marsys.tu-berlin.de/menue/home/) - Erasmusm Student***
 >>March 2014 – September 2014  
 >>Lessons in German, Exams in German and English
 
 >### **High School**
->>*[LINGUISTIC AND SCIENTIFIC LYCEUM ELIO VITTORINI (Milan, Italy)](https://www.eliovittorini.edu.it/)*    
+>>*[Linguistic and Scientific Lyceum ELio Vittorini (Milan, Italy)](https://www.eliovittorini.edu.it/)*    
 >>Languages German and English  
 
 
@@ -299,7 +299,7 @@
 >*In compliance with the GDPR and the Italian Legislative Decree no. 196 dated 30/06/2003, I hereby authorize you to use and process my personal details contained in this document*
 
 **Disclaimer**
->*Please note that this is a beta version of this document which is still undergoing final testing before its official release.*
+>*Please note that this is a beta version. This document is still undergoing final testing before its official release.*
 >*All data reported in this document are correct, but not complete.*
 
 >Version=0  Subversion=1 Date=25 September 2020
