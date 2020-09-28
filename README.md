@@ -3,6 +3,7 @@
 # Experienced CFD Engineer - CAE Analyst - Customer Success Engineer
 
 > # Contacts
+
 > <carlo.a.pasquinucci@gmail.com>  
 > [GitHub](github.com/Carlopasquinucci)  
 > [LinkedIn](Linkedin.com/in/carloaugustopasquinucci)  
@@ -11,22 +12,23 @@
 
 
 > # Contents
-- [Who I am](#who-i-am)
-     - [Summary](#summary)   
-     - [Job References](#job-references)
-     - [Soft Skills](#soft-skills) 
-     - [Sports Hobbies and Voluntary Organisation](#sports-hobbies-and-voluntary-organisations)
- - [What I know](#what-i-know)
-     - [Software](#software)
-     - [Languages](#languages)    
-     - [Technical Skills](#technical-skills)     
- - [What I did](#what-i-did)
-     - [Career History](#career-history)
-     - [Publications](#publications)
-  - [What I learned](#what-i-did)
-    - [Courses](#courses)
-    - [University](#university)
-    - [High School](#high-school) 
+
+>- [Who I am](#who-i-am)
+>     - [Summary](#summary)   
+>     - [Job References](#job-references)
+>     - [Soft Skills](#soft-skills) 
+>     - [Sports Hobbies and Voluntary Organisation](#sports-hobbies-and-voluntary-organisations)
+> - [What I know](#what-i-know)
+>    - [Software](#software)
+>    - [Languages](#languages)    
+>     - [Technical Skills](#technical-skills)     
+> - [What I did](#what-i-did)
+>     - [Career History](#career-history)
+>     - [Publications](#publications)
+>  - [What I learned](#what-i-did)
+>    - [Courses](#courses)
+>    - [University](#university)
+>    - [High School](#high-school) 
 
 ----------
 
