@@ -286,6 +286,7 @@
 >>*Master Thesis: Free Form Deformation and Surrogate Models for Exploration, Sensitivity and Optimization of Complex Hull Forms*  
 >>(In collaboration with Friendship-Systems AG) – [Winner of TRAVisions 2018 European Contest](https://www.travisions.eu/TRAVisions/young_researcher_results_2018/) - [Presentation Video](https://youtu.be/v5UBHdiCg_w)  
 >>Bachelor Thesis: Preliminary design of a 12,380 DWT Chemical Tanker (February, 2013), 4-People Team Work  
+
 ***[TU – Berlin](https://www.marsys.tu-berlin.de/menue/home/) - Erasmusm Student***
 >>March 2014 – September 2014  
 >>Lessons in German, Exams in German and English
