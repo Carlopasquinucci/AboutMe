@@ -1,23 +1,16 @@
-##### beta verson..all data are corrected but not complete
 
-Verion=0
-Subversion=1
-Date=25 September 2020
 
 # Experienced CFD Engineer - CAE Analyst - Customer Success Engineer
 
 > # Contacts
->  :email: <carlo.a.pasquinucci@gmail.com>
->
-> [GitHub](github.com/Carlopasquinucci)
->
-> [LinkedIn](Linkedin.com/in/carloaugustopasquinucci)
->
-> [cfdOnline profile](https://www.cfd-online.com/Forums/members/carlo_p.html)
+>  :email: <carlo.a.pasquinucci@gmail.com>  
+> [GitHub](github.com/Carlopasquinucci)  
+> [LinkedIn](Linkedin.com/in/carloaugustopasquinucci)  
+> [cfdOnline profile](https://www.cfd-online.com/Forums/members/carlo_p.html)  
 
 
 
-### contents
+> # Contents
 - [Who I am](#who-i-am)
      - [Summary](#summary)   
      - [Job References](#job-references)
@@ -286,7 +279,7 @@ Date=25 September 2020
 
 
 >### **University**
-***[INGEGNERIA NAVALE - UNIVERSITY OF GENOA](https://corsi.unige.it/8722)***   
+***[Ingegneria Navale](https://corsi.unige.it/8722)***   
 >>*September 2009 – September 2016*  
 >>**Master Degree: 105/110**  
 >>*Master Thesis: Free Form Deformation and Surrogate Models for Exploration, Sensitivity and Optimization of Complex Hull Forms*  
@@ -296,14 +289,19 @@ Date=25 September 2020
 >>March 2014 – September 2014  
 >>Lessons in German, Exams in German and English
 
-***High School***
->>*[LINGUISTIC AND SCIENTIFIC LYCEUM ELIO VITTORINI (Milan, Italy)](https://www.eliovittorini.edu.it/)*
+>### **High School**
+>>*[LINGUISTIC AND SCIENTIFIC LYCEUM ELIO VITTORINI (Milan, Italy)](https://www.eliovittorini.edu.it/)*    
 >>Languages German and English  
 
 
 
+**Disclaimer**
+>*In compliance with the GDPR and the Italian Legislative Decree no. 196 dated 30/06/2003, I hereby authorize you to use and process my personal details contained in this document*
 
+**Disclaimer**
+>*Please note that this is a beta version of this document which is still undergoing final testing before its official release.*
+>*All data reported in this document are correct, but not complete.*
 
-
+>Version=0  Subversion=1 Date=25 September 2020
 
 
