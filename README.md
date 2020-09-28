@@ -1,3 +1,9 @@
+##### beta verson..all data are corrected but not complete
+
+Verion=0
+Subversion=1
+Date=25 September 2020
+
 # Experienced CFD Engineer - CAE Analyst - Client Support
 
 > # Contacts
