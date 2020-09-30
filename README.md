@@ -4,11 +4,11 @@
 
 > # Contacts
 
-> <carlo.a.pasquinucci@gmail.com>  
-> [GitHub Repositories](github.com/Carlopasquinucci)  
-> [LinkedIn Profile](Linkedin.com/in/carloaugustopasquinucci)  
-> [cfdOnline Profile](https://www.cfd-online.com/Forums/members/carlo_p.html)
-> [YouTube Channel](https://www.youtube.com/channel/UC6_1-cSnXVWVYIbQUFrwVaA?view_as=subscriber)
+> - <carlo.a.pasquinucci@gmail.com>  
+> - [GitHub Repositories](github.com/Carlopasquinucci)  
+> - [LinkedIn Profile](Linkedin.com/in/carloaugustopasquinucci)  
+> - [cfdOnline Profile](https://www.cfd-online.com/Forums/members/carlo_p.html)
+> - [YouTube Channel](https://www.youtube.com/channel/UC6_1-cSnXVWVYIbQUFrwVaA?view_as=subscriber)
 
 
 
