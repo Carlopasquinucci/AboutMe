@@ -40,11 +40,11 @@
 > I am a complete CAE Engineer specialized in **Simulation Based Design for Mechanical Industry**. 
 >
 > I have a holistic point of view on the project, since my  knowledge covers:
-> + **technical drawing**
-> + **coding**
-> + **CFD simulations**
-> + **data analysis**
-> + **quality management**
+> + **CFD Simulations**
+> + **Quality Management**
+> + **Coding**
+> + **Data Analysis**
+> + **Marketing**
 
 > ### Job References
 ***Simone Cremonesi, Owner of [AMTR&D](http://amtrd.eu/it):***
@@ -61,7 +61,7 @@
 > - *Able to quickly embrace new ideas and  methods*             
 > - *Solution oriented and proactive worker*        
 > - *Holistic viewer and conceptual thinker*   
-> - *Able to see the “big picture” , understanding the goal and the need of the entire team 
+> - *Able to see the “big picture” , understanding the goal and the need of the entire team*
 > - *Able to work in a team, individually or under minimal supervision*   
 > - *Able to manage different projects and clients simultaneously*   
 
@@ -149,11 +149,10 @@
 >> 
 >> - CFD analysis and optimization using ANSYS, OpenFOAM and Starccm+ (80%); 
 >> - Tolerance analysis (with Six Sigma methodology, Pugh matrix, house of quality, data analysis and cost optimization) for automotive industry and drawing check (GPS >> norms) for different clients (10%)   
->> - Preparation of commercial material (Pre-sales presentations and LinkedIn articles) (10%). 
+>> - [Preparation of commercial materials (Pre-sales presentations and LinkedIn articles) (10%).](#content-marketing)
 >> 
->> The work is performed among the simulation, the design and the commercial departments of the company,  under three different head of the departments, under minimal  supervision. 
->> **Main projects:**  
->> •  CFD Simulation and Optimization: 
+>> The work is performed among the simulation, the design and the commercial departments of the company,  under three different head of the departments, under minimal  supervision.    
+>> **Main projects:**     
 >> -  Injection of a non-newtonian polymer in a heated mold (ANSYS CFX) 
 >> -  Optimization of a heating plate (ANSYS CFX) 
 >> -  Creation of a tool for automatic simulations with OpenFOAM in a Linux Server 
@@ -166,24 +165,26 @@
 >> - CAD: SpaceClaim, SolidWorks, Cetol Six Sigma (for tolerance analysis) and CAESES 
 >> - Data analysis and optimization: Excel, Python, Dakota 
 >> - CFD: ANSYS (CFX and Fluent), OpenFOAM, STARCCM+ 
->> - Others: Office, Outlook, LaTex, etc.. 
->> **Soft Skills:** Client Support, Proactivity, Problem Solving, Time Management, Project Management, Working under minimal Supervision 
->> **Languages:** Italian, English, German 
+>> - Others: Office, Outlook, LaTex, etc..    
+>>
+>> **Soft Skills:** Client Support, Proactivity, Problem Solving, Time Management, Project Management, Working under minimal Supervision   
+>>
+>> **Languages:** Italian, English, German      
 
 
 ***Freelancer CAE Consultant***
 >> *October 2016 - February 2018*
 >> CAD - CFD - FEM support engineer for different clients, start-ups and small companies: 
->> - *OMIQ S.R.L. (Milan, Italy) - omiq.it - (CFD Consultancy Company)*   
+>> - *[OMIQ S.R.L.](https://www.omiq.it/) (Milan, Italy) - CFD Consultancy Company*   
 >> Responsible for a valve optimization (Simerics MP)    
 >> Responsible for the creation of a Python script for a customer for the conversion of different CFD formats    
->> - *AMT R&D (Desio, MB, Italy) - amtrd.eu - (Industrial Ventilator Company - R&D Department)*   
+>> - *[AMT R&D](http://amtrd.eu/it) (Desio, MB, Italy) - Industrial Ventilator Company - R&D Department*   
 >> Teacher of CFD simulation software (ConSelf, OpenFOAM based): “Introduction to CFD Simulation: from geometry preparation to Postprocessing”     
 >> Supervisor of CFD simulations performed by the company.   
->> - *CONSELF S.R.L. (CONsulting by yourSELF) (Milan, Italy) - conself.com - (Software CFD and FEM on-Cloud)*   
+>> - *[CONSELF S.R.L.](conself.com) (CONsulting by yourSELF) (Milan, Italy) - Software CFD and FEM on-Cloud*   
 >> Responsible of the customer service and support for two clients   
 >> Responsible of the creation of tutorials   
->> - *MZ YACHT DESIGN (Rivoli, Turin, Italy) - facebook.com/MZYachtDesign (Yacht Design)*   
+>> - *[MZ YACHT DESIGN](facebook.com/MZYachtDesign) (Rivoli, Turin, Italy) - Yacht Design*   
 >> Responsible of the simulations of two rudders in different configurations and speeds   
 >>  
 >> The work was performed 70% individually, 20% directly under the supervision of the different CEO of the companies (during technical meetings or with mails and reports), 10% in collaboration with a colleague (team working, mails, skype). 
@@ -195,19 +196,20 @@
 >> - Technical Report: Office, Google Drive 
 >> - Support: Skype, TeamViewer 
 >>
->> **Soft Skills:** Project Management, Time Management, Cost Management, Clients and Customers  Management, Work remotely and under Minimal Supervision, Work Individually, Teaching 
+>> **Soft Skills:** Project Management, Time Management, Cost Management, Clients and Customers  Management, Work remotely and under Minimal Supervision, Work Individually, Teaching      
 >> **Languages:** Italian, English 
  
 ***ILS Engineer***
->> *ISSELNORD S.P.A. (Follo, La Spezia) - isselnord.it 
->> January 2017- May 2017 - Stage*
->> Maintainability analyses (FMEA, FMECA, RBD…) for lifting and handling machinery build by M.E.P for  FINCANTIERI and BAE Systems 
->> Technical publications and maintenance manuals for lifting and handling machinery build by M.E.P for  FINCANTIERI and BAE Systems 
->> **Software:** MS Office, AutoCad 
->> **Soft Skills:** Project Management, Team Work, Working under Supervision 
+>> *[ISSELNORD S.P.A.](http://www.isselnord.it/) (Follo, La Spezia)      
+>> January 2017- May 2017 - Stage*   
+>> Maintainability analyses (FMEA, FMECA, RBD…) for lifting and handling machinery build by M.E.P for  FINCANTIERI and BAE Systems    
+>> Technical publications and maintenance manuals for lifting and handling machinery build by M.E.P for  FINCANTIERI and BAE Systems     
+>> **Software:** MS Office, AutoCad      
+>> **Soft Skills:** Project Management, Team Work, Working under Supervision       
+>> **Languages:** Italian, English, German
  
 ***CAE Consultant and Presales Engineer***
->> *FRIENDSHIP - SYSTEMS A.G. (Potsdam, Germany) - Friendship-Systems.com 
+>> *[FRIENDSHIP - SYSTEMS A.G.](https://www.friendship-systems.com/) (Potsdam, Germany)   
 >> CAE Software and CAE Consultancy Company for Marine and Mechanical Industry) 
 >> February 2015 – December 2015 Part-time worker 40 hours per month   
 >> January 2015 – September 2016 Part-time worker 60 hours per month*   
@@ -218,17 +220,18 @@
 >> The majority of the work consisted in customer and client support for German and International customers, with forum, helpdesk and calls, supporting them in project optimizations, and in the design of samples or tutorials, with technical reports and presentations.  
 >> Furthermore, I was responsible of the integration in the software of the Free Form Deformation and the DAKOTA Optimizer. 
  
->> **Main Projects:** Design and Optimization of Existing Ships, Intake Ports and Car Exhaust System 
->> **Software:** CAESES, DAKOTA, Office, LibreOffice 
->> **Soft Skills:** Working under Minimal Supervision, Customer Service and Support and Management 
->> **Languages:** English, German, Italian 
+>> **Main Projects:** Design and Optimization of Existing Ships, Intake Ports and Car Exhaust System     
+>> **Software:** CAESES, DAKOTA, Office, LibreOffice     
+>> **Soft Skills:** Working under Minimal Supervision, Customer Service and Support and Management      
+>> **Languages:** English, German, Italian      
  
-***Assistant of Mechanical Engineers***
->> *IGNAZIO MESSINA S.P.A. - INTERNSHIP (Genoa, Italy) - messinaline.it 
->> Academic Internship - December 2012 – January 2013*
->> The work, performed in a repair shipyard, consisted in the planning, scheduling and executing of repairs on board and in the steel structural shop. 
->> **Soft Skills:** Project Management, Time Management, Workers Supervision 
->
+[//]: ***Assistant of Mechanical Engineers***
+[//]: >> *IGNAZIO MESSINA S.P.A. - INTERNSHIP (Genoa, Italy) - messinaline.it 
+[//]: >> Academic Internship - December 2012 – January 2013*
+[//]: >> The work, performed in a repair shipyard, consisted in the planning, scheduling and executing of repairs on board and in the steel structural shop. 
+[//]: >> **Soft Skills:** Project Management, Time Management, Workers Supervision 
+[//]: >
+
 > ### **Publications**
 >
 ***Conference Articles:***   
@@ -242,7 +245,22 @@
 >>“Hull Coefficients Sensitivity Analysis with Modern Methods” International CAE Conference, Vicenza, 2017     
 
 ***Contest:***     
->>“Free Form Deformation and Surrogate Surface: A Help in Greener Ship Design” Winner TraVisions Contest 2018 – European Contest for Master Thesis – Waterborne Section  
+>>“Free Form Deformation and Surrogate Surface: A Help in Greener Ship Design” Winner TraVisions Contest 2018 – European Contest for Master Thesis – Waterborne Section
+
+> ### **Content Marketing**
+>>[CFD in ambito biomedicale: una nuova storia di successo](https://www.linkedin.com/pulse/cfd-ambito-biomedicale-una-nuova-storia-di-successo-pasquinucci/) :it:  
+>>[Attraverso la simulazione CFD miglioriamo macchine, prodotti e componenti](https://www.linkedin.com/pulse/attraverso-la-simulazione-cfd-miglioriamo-macchine-e-pasquinucci/) :it:  
+>>[L’arte della simulazione CFD a supporto del Design](https://www.linkedin.com/pulse/larte-della-simulazione-cfd-supporto-del-design-pasquinucci/) :it:  
+>>[OpenFOAM: come iniziare facilmente](https://www.linkedin.com/pulse/openfoam-come-iniziare-facilmente-carlo-augusto-pasquinucci/) :it:  
+>>[SIMULAZIONE CFD DI UN SISTEMA MULTIFASE GAS-LIQUIDO](https://www.linkedin.com/pulse/simulazione-cfd-di-un-sistema-multifase-gas-liquido-pasquinucci/) :it:  
+
+>>[Introduzione alla Fluidodinamica Numerica](https://reader.paperlit.com/read/prj_5c6d8e19eba04/pub_5c6d8e1a0e83c/5000-01-18?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwcm9qZWN0SWQiOiJwcmpfNWM2ZDhlMTllYmEwNCIsInByb2plY3RQZXJtaXNzaW9uc0JpdG1hc2siOjF9.S2AgZtHxufsSYol5LRjIByWxiUUXLQGDqfVMIocr_No&page=1) :it: 
+introduzione alla fluidodinamica numerica
+
+>>[The art of CFD Simulation in supporting Design](https://www.linkedin.com/pulse/art-cfd-simulation-supporting-design-carlo-augusto-pasquinucci/) :gb:  
+>>[CFD SIMULATION OF A GAS-LIQUID MULTIPHASE SYSTEM](https://www.linkedin.com/pulse/cfd-simulation-gas-liquid-multiphase-system-carlo-augusto-pasquinucci/) :gb:  
+>>[Where CAE is going?](https://www.linkedin.com/pulse/where-cae-going-carlo-augusto-pasquinucci/)  :gb:  
+
 
 ----------
 
