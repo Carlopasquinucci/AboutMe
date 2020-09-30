@@ -25,7 +25,7 @@
 > - [What I did](#what-i-did)
 >     - [Career History](#career-history)
 >     - [Publications](#publications)
->  - [What I learned](#what-i-did)
+>  - [What I learned](#what-i-learned)
 >    - [Courses](#courses)
 >    - [University](#university)
 >    - [High School](#high-school) 
@@ -250,6 +250,7 @@
 
 ----------
 >### **Courses**
+
 ***CFD:***   
 >> [“OpenFOAM Advanced Trainging”, July 2020, WolfsDynamics](http://www.wolfdynamics.com/our-services/training/topenfoam-advanced-training.html)   
 >> [“OpenFOAM Introductory Training”, June 2019, WolfsDynamics](http://www.wolfdynamics.com/our-services/training/openfoam-intro-training.html)   
@@ -272,6 +273,7 @@
 >> [“Introduction to Geometric Dimensioning and Tolerancing", Linkedin Learning](https://www.linkedin.com/learning/introduction-to-geometric-dimensioning-and-tolerancing)
 
 ***Managment and Quality Controll:***   
+>> Different courses on [Learnn](https://app.learnn.com/) about **Funnel**, **Pricing**, **Subscription** and **Testing**
 >> [“Operational Excellence Foundations", Linkedin Learning](https://www.linkedin.com/learning/operational-excellence-foundations)   
 >> [“Project Management Foundations: Quality”, Linkedin Learning](https://www.linkedin.com/learning/project-management-foundations-quality)   
 >> [“Six Sigma Foundations”, Linkedin Learning](https://www.linkedin.com/learning/six-sigma-green-belt)   
