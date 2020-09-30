@@ -223,14 +223,9 @@
 >> **Main Projects:** Design and Optimization of Existing Ships, Intake Ports and Car Exhaust System     
 >> **Software:** CAESES, DAKOTA, Office, LibreOffice     
 >> **Soft Skills:** Working under Minimal Supervision, Customer Service and Support and Management      
->> **Languages:** English, German, Italian      
- 
-[//]: ***Assistant of Mechanical Engineers***
-[//]: >> *IGNAZIO MESSINA S.P.A. - INTERNSHIP (Genoa, Italy) - messinaline.it 
-[//]: >> Academic Internship - December 2012 – January 2013*
-[//]: >> The work, performed in a repair shipyard, consisted in the planning, scheduling and executing of repairs on board and in the steel structural shop. 
-[//]: >> **Soft Skills:** Project Management, Time Management, Workers Supervision 
-[//]: >
+>> **Languages:** English, German, Italian 
+
+[***Assistant of Mechanical Engineers***  *IGNAZIO MESSINA S.P.A. - INTERNSHIP (Genoa, Italy) - messinaline.it   Academic Internship - December 2012 – January 2013  The work, performed in a repair shipyard, consisted in the planning, scheduling and executing of repairs on board and in the steel structural shop.   **Soft Skills:** Project Management, Time Management, Workers Supervision ]: #
 
 > ### **Publications**
 >
