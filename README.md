@@ -26,6 +26,7 @@
 > - [What I did](#what-i-did)
 >     - [Career History](#career-history)
 >     - [Publications](#publications)
+>     - [Content Marketing](#content-marketing)
 >  - [What I learned](#what-i-learned)
 >    - [Courses](#courses)
 >    - [University](#university)
@@ -246,18 +247,19 @@
 >>“Free Form Deformation and Surrogate Surface: A Help in Greener Ship Design” Winner TraVisions Contest 2018 – European Contest for Master Thesis – [Waterborne Section](https://www.travisions.eu/TRAVisions/young_researcher_results_2018/)
 
 > ### **Content Marketing**
+***LinkedIn Articles:***
 >>[CFD in ambito biomedicale: una nuova storia di successo](https://www.linkedin.com/pulse/cfd-ambito-biomedicale-una-nuova-storia-di-successo-pasquinucci/) :it:  
 >>[Attraverso la simulazione CFD miglioriamo macchine, prodotti e componenti](https://www.linkedin.com/pulse/attraverso-la-simulazione-cfd-miglioriamo-macchine-e-pasquinucci/) :it:  
 >>[L’arte della simulazione CFD a supporto del Design](https://www.linkedin.com/pulse/larte-della-simulazione-cfd-supporto-del-design-pasquinucci/) :it:  
 >>[OpenFOAM: come iniziare facilmente](https://www.linkedin.com/pulse/openfoam-come-iniziare-facilmente-carlo-augusto-pasquinucci/) :it:  
 >>[SIMULAZIONE CFD DI UN SISTEMA MULTIFASE GAS-LIQUIDO](https://www.linkedin.com/pulse/simulazione-cfd-di-un-sistema-multifase-gas-liquido-pasquinucci/) :it:  
 
->>[Introduzione alla Fluidodinamica Numerica](https://reader.paperlit.com/read/prj_5c6d8e19eba04/pub_5c6d8e1a0e83c/5000-01-18?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwcm9qZWN0SWQiOiJwcmpfNWM2ZDhlMTllYmEwNCIsInByb2plY3RQZXJtaXNzaW9uc0JpdG1hc2siOjF9.S2AgZtHxufsSYol5LRjIByWxiUUXLQGDqfVMIocr_No&page=1) :it: 
-
 >>[The art of CFD Simulation in supporting Design](https://www.linkedin.com/pulse/art-cfd-simulation-supporting-design-carlo-augusto-pasquinucci/) :gb:  
 >>[CFD SIMULATION OF A GAS-LIQUID MULTIPHASE SYSTEM](https://www.linkedin.com/pulse/cfd-simulation-gas-liquid-multiphase-system-carlo-augusto-pasquinucci/) :gb:  
 >>[Where CAE is going?](https://www.linkedin.com/pulse/where-cae-going-carlo-augusto-pasquinucci/)  :gb:  
 
+***Articles on [Il Progettista Industriale:](https://www.ilprogettistaindustriale.it/)***
+>>[Introduzione alla Fluidodinamica Numerica](https://reader.paperlit.com/read/prj_5c6d8e19eba04/pub_5c6d8e1a0e83c/5000-01-18?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwcm9qZWN0SWQiOiJwcmpfNWM2ZDhlMTllYmEwNCIsInByb2plY3RQZXJtaXNzaW9uc0JpdG1hc2siOjF9.S2AgZtHxufsSYol5LRjIByWxiUUXLQGDqfVMIocr_No&page=1) :it: 
 
 ----------
 
@@ -320,6 +322,6 @@
 **Disclaimer**
 >*Please note that this is a beta version. This document is still undergoing final testing before its official release. All data reported in this document are correct, but not complete.*
 
->Version=0  Subversion=2 Date=25 September 2020
+>Version=0  Subversion=2 Date=30 September 2020
 
 
