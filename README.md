@@ -1,4 +1,4 @@
-<a name="abcd"></a> 
+<a name="abcd"></a> [link text](#abcd)
 
 # Experienced CFD Engineer - CAE Analyst - Customer Success Engineer
 
@@ -7,7 +7,8 @@
 > <carlo.a.pasquinucci@gmail.com>  
 > [GitHub Repositories](github.com/Carlopasquinucci)  
 > [LinkedIn Profile](Linkedin.com/in/carloaugustopasquinucci)  
-> [cfdOnline Profile](https://www.cfd-online.com/Forums/members/carlo_p.html)  
+> [cfdOnline Profile](https://www.cfd-online.com/Forums/members/carlo_p.html)
+> [YouTube Channel](https://www.youtube.com/channel/UC6_1-cSnXVWVYIbQUFrwVaA?view_as=subscriber)
 
 
 
@@ -31,7 +32,6 @@
 >    - [High School](#high-school) 
 
 ----------
-[link text](#abcd)
 
 > # **Who I am**
 
@@ -71,8 +71,10 @@
 > - Explore the world in a slow and green way, in particolar, in unsupported [bikepacking trip](https://bikepacking.com/bikepacking-101/)
 > - Host and give hospitality to travelling people through the [Couchsurfing association](https://en.wikipedia.org/wiki/CouchSurfing)
 > - Organizer and active partecipant at the [*Critical Mass*](https://en.wikipedia.org/wiki/Critical_Mass_(cycling)) in Brescia
+> - Promoter and organizer for turistic free green tours by bike for supporting turism in my region
 > - Organizer and active partecipant a the *Speak English! Valcamonica*
 > - Promoter and active partecipant at the [*Banco Alimentare*](www.bancoalimentare.it) (An Italian food bank)
+
 
 
 ----------
@@ -82,7 +84,7 @@
 ----------
 > ### Software
 > ***O.S.:*** Windows, Linux   
-> ***Languages:*** Python, Matlab, Visual Basic (Basic), C (Basic), GitHub   
+> ***Languages:*** Python, Matlab, Visual Basic (Basic), C (Basic), GitHub, MarkDown   
 > ***CAD:*** SpaceClaim, SolidWorks, CAESES   
 > ***CFD:*** ANSYS (CFX-Fluent), OpenFoam, STARCCM+, ParaView   
 > ***Tolerance analysis:*** CETOL 6σ   
@@ -215,7 +217,7 @@
 >> February 2015 – December 2015 Part-time worker 40 hours per month   
 >> January 2015 – September 2016 Part-time worker 60 hours per month*   
 >> Industrial parametric design, free form deformation, optimization algorithms, data postprocessing;    
->> Customer and client support through mails, HelpDesk and Forum;   
+>> Customer and client support through mails, HelpDesk and [Forum](https://www.caeses.com/forum/index.php);   
 >> Tutorial, best practise and samples creation.   
 >> 
 >> The majority of the work consisted in customer and client support for German and International customers, with forum, helpdesk and calls, supporting them in project optimizations, and in the design of samples or tutorials, with technical reports and presentations.  
@@ -236,12 +238,12 @@
 >>“Significance of Parametric Hull Form Definition on Hydrodynamic Performance Optimization”, VI Compit 2015, Rome, Italy   
 
 ***Poster Sessions:***    
->>“Logarithmic Spiral Based Volute Design and Optimization” CAESES European Users’ Meeting, 2019  
->>“Sparse Free Form Deformation for Faster Hull Optimization” CAESES European Users’ Meeting, 2017  
->>“Hull Coefficients Sensitivity Analysis with Modern Methods” International CAE Conference, Vicenza, 2017     
+>>“Logarithmic Spiral Based Volute Design and Optimization” [CAESES European Users’ Meeting, 2019](https://www.friendship-systems.com/news/2019/successful-caeses-users-meeting-2019/)  
+>>“Sparse Free Form Deformation for Faster Hull Optimization” [CAESES European Users’ Meeting, 2017](https://www.friendship-systems.com/news/2017/successful-caeses-european-users-meeting-2017/)
+>>“Hull Coefficients Sensitivity Analysis with Modern Methods” [International CAE Conference, Vicenza, 2017](http://meeting2017.enginsoft.it/)     
 
 ***Contest:***     
->>“Free Form Deformation and Surrogate Surface: A Help in Greener Ship Design” Winner TraVisions Contest 2018 – European Contest for Master Thesis – Waterborne Section
+>>“Free Form Deformation and Surrogate Surface: A Help in Greener Ship Design” Winner TraVisions Contest 2018 – European Contest for Master Thesis – [Waterborne Section](https://www.travisions.eu/TRAVisions/young_researcher_results_2018/)
 
 > ### **Content Marketing**
 >>[CFD in ambito biomedicale: una nuova storia di successo](https://www.linkedin.com/pulse/cfd-ambito-biomedicale-una-nuova-storia-di-successo-pasquinucci/) :it:  
@@ -251,7 +253,6 @@
 >>[SIMULAZIONE CFD DI UN SISTEMA MULTIFASE GAS-LIQUIDO](https://www.linkedin.com/pulse/simulazione-cfd-di-un-sistema-multifase-gas-liquido-pasquinucci/) :it:  
 
 >>[Introduzione alla Fluidodinamica Numerica](https://reader.paperlit.com/read/prj_5c6d8e19eba04/pub_5c6d8e1a0e83c/5000-01-18?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwcm9qZWN0SWQiOiJwcmpfNWM2ZDhlMTllYmEwNCIsInByb2plY3RQZXJtaXNzaW9uc0JpdG1hc2siOjF9.S2AgZtHxufsSYol5LRjIByWxiUUXLQGDqfVMIocr_No&page=1) :it: 
-introduzione alla fluidodinamica numerica
 
 >>[The art of CFD Simulation in supporting Design](https://www.linkedin.com/pulse/art-cfd-simulation-supporting-design-carlo-augusto-pasquinucci/) :gb:  
 >>[CFD SIMULATION OF A GAS-LIQUID MULTIPHASE SYSTEM](https://www.linkedin.com/pulse/cfd-simulation-gas-liquid-multiphase-system-carlo-augusto-pasquinucci/) :gb:  
@@ -319,6 +320,6 @@ introduzione alla fluidodinamica numerica
 **Disclaimer**
 >*Please note that this is a beta version. This document is still undergoing final testing before its official release. All data reported in this document are correct, but not complete.*
 
->Version=0  Subversion=1 Date=25 September 2020
+>Version=0  Subversion=2 Date=25 September 2020
 
 
