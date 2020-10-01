@@ -272,8 +272,8 @@
 
 
 ***CFD:***   
->> [“OpenFOAM Advanced Trainging”, July 2020, WolfsDynamics](http://www.wolfdynamics.com/our-services/training/topenfoam-advanced-training.html) - See ![Certificate](Certificate_openfoam_advance_course.pdf)         
->> [“OpenFOAM Introductory Training”, June 2019, WolfsDynamics](http://www.wolfdynamics.com/our-services/training/openfoam-intro-training.html) - See ![Certificate](Certificate_openfoam_intro_of_course.pdf)           
+>> [“OpenFOAM Advanced Trainging”, July 2020, WolfsDynamics](http://www.wolfdynamics.com/our-services/training/topenfoam-advanced-training.html) - See ![Certificate](certificate/Certificate_openfoam_advance_course.pdf)         
+>> [“OpenFOAM Introductory Training”, June 2019, WolfsDynamics](http://www.wolfdynamics.com/our-services/training/openfoam-intro-training.html) - See ![Certificate](certificate/Certificate_openfoam_intro_of_course.pdf)           
 >> [“SimScale FEA Master Class”, Simscale Academy](https://www.simscale-academy.com/)   
 >> [“SimScale CFD Master Class”, Simscale Academy](https://www.simscale-academy.com/)   
 >> [“Applications of CFD in Formula Student and Formula SAE”, Simscale Academy](https://www.simscale-academy.com/)   
@@ -287,8 +287,8 @@
 >> [“Introduction to Python for Data Science”, (91/100), edX](https://www.edx.org/course/introduction-to-python-for-data-science-6?source=aw&awc=6798_1601028882_7bdc85fa9681cc5efeaf5b155b0ec8d6&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=301045_https%3A%2F%2Fwww.class-central.com%2F)  
 
 ***CAD:***   
->> [“Cetol Six Sigma”, June 2018, Enrico Boesso, Enginsoft](https://www.enginsoft.com/training/corso-software-cetol-6%CF%83.html) - See  ![Certificate](attestato_CETOL.pdf )         
->> [“GPS – Specifiche Geometriche di Prodotto”, September 2018, Roberto Frizza, University of Bergamo](http://www.cmmclub.it/cmmsite/index.php/attivita/formazione/corsi-di-formazione) - See  ![Certificate](certificate/Attestato_GPS.pdf)      
+>> [“Cetol Six Sigma”, June 2018, Enrico Boesso, Enginsoft](https://www.enginsoft.com/training/corso-software-cetol-6%CF%83.html) - See  ![Certificate](certificate/attestato_CETOL.pdf )         
+>> [“GPS – Specifiche Geometriche di Prodotto”, September 2018, Roberto Frizza, University of Bergamo](http://www.cmmclub.it/cmmsite/index.php/attivita/formazione/corsi-di-formazione) - See  ![Certificate](certificate/certificate/Attestato_GPS.pdf)      
 >> [“Introduction to Geometric Dimensioning and Tolerancing", Linkedin Learning](https://www.linkedin.com/learning/introduction-to-geometric-dimensioning-and-tolerancing)    
 >> [“Introduction to Geometric Dimensioning and Tolerancing", Linkedin Learning](https://www.linkedin.com/learning/introduction-to-geometric-dimensioning-and-tolerancing)     
 
