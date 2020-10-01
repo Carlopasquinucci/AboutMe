@@ -86,10 +86,10 @@
 ----------
 > ### Software
 > ***O.S.:*** Windows, Linux   
-> ***Languages:*** Python, Matlab, Visual Basic (Basic), GitHub, MarkDown   
-> ***CAD:*** Ansys SpaceClaim, SolidWorks, CAESES
-> ***CFD:*** ANSYS (CFX-Fluent), OpenFoam, STARCCM+, ParaView   
-> ***Tolerance analysis:*** CETOL 6σ   
+> ***Languages:*** Python, Matlab, Visual Basic (Basic), GitHub, MarkDown        
+> ***CAD:*** Ansys SpaceClaim, SolidWorks, CAESES      
+> ***CFD:*** ANSYS (CFX-Fluent), OpenFoam, STARCCM+, ParaView        
+> ***Tolerance analysis:*** CETOL 6σ        
 > ***Optimizer:*** DAKOTA, CAESES, ANSYS, Python   
 > ***Support - Conferencing:*** Skype, GoToMeeting, TeamViewer   
 > ***Other:*** Office, Outlook, Google Calendar, LibreOffice, Google Docs, LaTex
