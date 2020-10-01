@@ -1,6 +1,5 @@
 <a name="abcd"></a> [link text](#abcd)
 
-![attestato](certificate/Attestato_GPS.pdf) 
 
 # Experienced CFD Engineer - CAE Analyst - Customer Success Engineer
 
@@ -87,8 +86,8 @@
 ----------
 > ### Software
 > ***O.S.:*** Windows, Linux   
-> ***Languages:*** Python, Matlab, Visual Basic (Basic), C (Basic), GitHub, MarkDown   
-> ***CAD:*** SpaceClaim, SolidWorks, CAESES   
+> ***Languages:*** Python, Matlab, Visual Basic (Basic), GitHub, MarkDown   
+> ***CAD:*** Ansys SpaceClaim, SolidWorks, CAESES
 > ***CFD:*** ANSYS (CFX-Fluent), OpenFoam, STARCCM+, ParaView   
 > ***Tolerance analysis:*** CETOL 6σ   
 > ***Optimizer:*** DAKOTA, CAESES, ANSYS, Python   
@@ -236,14 +235,14 @@
 > ### **Publications**
 >
 ***Conference Articles:***   
->>“Learning from Results: Data Based Project Based on CFD Simulations”, International CAE Conference, Vicenza, October 2018  
->>“A Fast Optimization Algorithm for Greener Ship Design”, International CAE Conference, Vicenza, November 2017   
+>>[“Learning from Results: Data Based Project Based on CFD Simulations”](https://www.researchgate.net/publication/328276740_Learning_from_Results_Data_Based_Project_based_of_CFD_Simulations), [International CAE Conference, Vicenza, October 2018](http://proceedings2018.caeconference.com/)  
+>>“A Fast Optimization Algorithm for Greener Ship Design”, [International CAE Conference, Vicenza, November 2017](http://proceedings2017.caeconference.com/)   
 >>“Significance of Parametric Hull Form Definition on Hydrodynamic Performance Optimization”, VI Compit 2015, Rome, Italy   
 
 ***Poster Sessions:***    
 >>“Logarithmic Spiral Based Volute Design and Optimization” [CAESES European Users’ Meeting, 2019](https://www.friendship-systems.com/news/2019/successful-caeses-users-meeting-2019/)  
->>“Sparse Free Form Deformation for Faster Hull Optimization” [CAESES European Users’ Meeting, 2017](https://www.friendship-systems.com/news/2017/successful-caeses-european-users-meeting-2017/)
->>“Hull Coefficients Sensitivity Analysis with Modern Methods” [International CAE Conference, Vicenza, 2017](http://meeting2017.enginsoft.it/)     
+>>[“Sparse Free Form Deformation for Faster Hull Optimization”](https://www.researchgate.net/publication/320426792_Sparse_Free_Form_Deformation_a_faster_optimization_algorithm_and_parameter_reduction_technique) [CAESES European Users’ Meeting, 2017](https://www.friendship-systems.com/news/2017/successful-caeses-european-users-meeting-2017/)
+>>“Hull Coefficients Sensitivity Analysis with Modern Methods” [International CAE Conference, Vicenza, 2017](http://proceedings2017.caeconference.com/)     
 
 ***Contest:***     
 >>“Free Form Deformation and Surrogate Surface: A Help in Greener Ship Design” Winner TraVisions Contest 2018 – European Contest for Master Thesis – [Waterborne Section](https://www.travisions.eu/TRAVisions/young_researcher_results_2018/)
@@ -270,9 +269,11 @@
 ----------
 >### **Courses**
 
+
+
 ***CFD:***   
->> [“OpenFOAM Advanced Trainging”, July 2020, WolfsDynamics](http://www.wolfdynamics.com/our-services/training/topenfoam-advanced-training.html)   
->> [“OpenFOAM Introductory Training”, June 2019, WolfsDynamics](http://www.wolfdynamics.com/our-services/training/openfoam-intro-training.html)   
+>> [“OpenFOAM Advanced Trainging”, July 2020, WolfsDynamics](http://www.wolfdynamics.com/our-services/training/topenfoam-advanced-training.html) - See ![Certificate](Certificate_openfoam_advance_course.pdf)         
+>> [“OpenFOAM Introductory Training”, June 2019, WolfsDynamics](http://www.wolfdynamics.com/our-services/training/openfoam-intro-training.html) - See ![Certificate](Certificate_openfoam_intro_of_course.pdf)           
 >> [“SimScale FEA Master Class”, Simscale Academy](https://www.simscale-academy.com/)   
 >> [“SimScale CFD Master Class”, Simscale Academy](https://www.simscale-academy.com/)   
 >> [“Applications of CFD in Formula Student and Formula SAE”, Simscale Academy](https://www.simscale-academy.com/)   
@@ -286,12 +287,12 @@
 >> [“Introduction to Python for Data Science”, (91/100), edX](https://www.edx.org/course/introduction-to-python-for-data-science-6?source=aw&awc=6798_1601028882_7bdc85fa9681cc5efeaf5b155b0ec8d6&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=301045_https%3A%2F%2Fwww.class-central.com%2F)  
 
 ***CAD:***   
->> [“Cetol Six Sigma”, June 2018, Enrico Boesso, Enginsoft](https://www.enginsoft.com/training/corso-software-cetol-6%CF%83.html)  
->> [“GPS – Specifiche Geometriche di Prodotto”, September 2018, Roberto Frizza, University of Bergamo](http://www.cmmclub.it/cmmsite/index.php/attivita/formazione/corsi-di-formazione)
->> [“Introduction to Geometric Dimensioning and Tolerancing", Linkedin Learning](https://www.linkedin.com/learning/introduction-to-geometric-dimensioning-and-tolerancing)
->> [“Introduction to Geometric Dimensioning and Tolerancing", Linkedin Learning](https://www.linkedin.com/learning/introduction-to-geometric-dimensioning-and-tolerancing)
+>> [“Cetol Six Sigma”, June 2018, Enrico Boesso, Enginsoft](https://www.enginsoft.com/training/corso-software-cetol-6%CF%83.html) - See  ![Certificate](attestato_CETOL.pdf )         
+>> [“GPS – Specifiche Geometriche di Prodotto”, September 2018, Roberto Frizza, University of Bergamo](http://www.cmmclub.it/cmmsite/index.php/attivita/formazione/corsi-di-formazione) - See  ![Certificate](certificate/Attestato_GPS.pdf)      
+>> [“Introduction to Geometric Dimensioning and Tolerancing", Linkedin Learning](https://www.linkedin.com/learning/introduction-to-geometric-dimensioning-and-tolerancing)    
+>> [“Introduction to Geometric Dimensioning and Tolerancing", Linkedin Learning](https://www.linkedin.com/learning/introduction-to-geometric-dimensioning-and-tolerancing)     
 
-***Managment and Quality Controll:***   
+***Managment and Quality Control:***   
 >> Different courses on [Learnn](https://app.learnn.com/) about **Funnel**, **Pricing**, **Subscription** and **Testing**
 >> [“Operational Excellence Foundations", Linkedin Learning](https://www.linkedin.com/learning/operational-excellence-foundations)   
 >> [“Project Management Foundations: Quality”, Linkedin Learning](https://www.linkedin.com/learning/project-management-foundations-quality)   
