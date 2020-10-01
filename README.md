@@ -153,7 +153,7 @@
 >> June 2018 - Present - Permanent Contract*
 >> 
 >> - CFD analysis and optimization using ANSYS, OpenFOAM and Starccm+ (80%); 
->> - Tolerance analysis (with Six Sigma methodology, Pugh matrix, house of quality, data analysis and cost optimization) for automotive industry and drawing check (GPS >> norms) for different clients (10%)   
+>> - Tolerance analysis (with Six Sigma methodology, Pugh matrix, house of quality, data analysis and cost optimization) for automotive industry and drawing check for different clients (10%)   
 >> - [Preparation of commercial materials (Pre-sales presentations and LinkedIn articles) (10%).](#content-marketing)
 >> 
 >> The work is performed among the simulation, the design and the commercial departments of the company,  under three different head of the departments, under minimal  supervision.    
@@ -293,20 +293,19 @@
 >> [“Introduction to Geometric Dimensioning and Tolerancing", Linkedin Learning](https://www.linkedin.com/learning/introduction-to-geometric-dimensioning-and-tolerancing)     
 
 ***Managment and Quality Control:***   
->> Different courses on [Learnn](https://app.learnn.com/) about **Funnel**, **Pricing**, **Subscription** and **Testing**
+>> Different courses on [Learnn](https://app.learnn.com/) about **Funnel**, **Pricing**, **Subscription** and **Testing**       
 >> [“Operational Excellence Foundations", Linkedin Learning](https://www.linkedin.com/learning/operational-excellence-foundations)   
 >> [“Project Management Foundations: Quality”, Linkedin Learning](https://www.linkedin.com/learning/project-management-foundations-quality)   
 >> [“Six Sigma Foundations”, Linkedin Learning](https://www.linkedin.com/learning/six-sigma-green-belt)   
 >> [“Six Sigma: Green Belt”, Linkedin Learning](https://www.linkedin.com/learning/six-sigma-foundations)  
 
 
-
 >### **University**
 ***[Ingegneria Navale - University of Genoa](https://corsi.unige.it/8722)***   
 >>*September 2009 – September 2016*  
 >>**Master Degree: 105/110**  
->>*Master Thesis: Free Form Deformation and Surrogate Models for Exploration, Sensitivity and Optimization of Complex Hull Forms*  
->>(In collaboration with Friendship-Systems AG) – [Winner of TRAVisions 2018 European Contest](https://www.travisions.eu/TRAVisions/young_researcher_results_2018/) - [Presentation Video](https://youtu.be/v5UBHdiCg_w)  
+>>*Master Thesis: [Free Form Deformation and Surrogate Models for Exploration, Sensitivity and Optimization of Complex Hull Forms](https://www.researchgate.net/publication/312535839_FREE_FORM_DEFORMATION_AND_SURROGATE_MODELS_FOR_EXPLORATION_SENSITIVITY_AND_OPTIMIZATION_OF_COMPLEX_HULL_FORMS)*   
+>>(In collaboration with [Friendship-Systems AG](https://www.friendship-systems.com/) – [Winner of TRAVisions 2018 European Contest](https://www.travisions.eu/TRAVisions/young_researcher_results_2018/) - [Presentation Video](https://youtu.be/v5UBHdiCg_w)  
 >>Bachelor Thesis: Preliminary design of a 12,380 DWT Chemical Tanker (February, 2013), 4-People Team Work  
 
 ***[TU – Berlin](https://www.marsys.tu-berlin.de/menue/home/) - Erasmusm Student***
@@ -316,7 +315,6 @@
 >### **High School**
 >>*[Linguistic and Scientific Lyceum ELio Vittorini (Milan, Italy)](https://www.eliovittorini.edu.it/)*    
 >>Languages German and English  
-
 
 
 **Disclaimer**
