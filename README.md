@@ -1,5 +1,7 @@
 <a name="abcd"></a> [link text](#abcd)
 
+![attestato](certificate/Attestato_GPS.pdf) 
+
 # Experienced CFD Engineer - CAE Analyst - Customer Success Engineer
 
 > # Contacts
