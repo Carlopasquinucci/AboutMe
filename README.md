@@ -4,7 +4,7 @@
 
 > # Contacts
 
-> - [E-mail](carlo.a.pasquinucci@gmail.com)
+> - <carlo.a.pasquinucci@gmail.com> 
 > - [GitHub Repositories](github.com/Carlopasquinucci)  
 > - [LinkedIn Profile](Linkedin.com/in/carloaugustopasquinucci)  
 > - [cfdOnline Profile](https://www.cfd-online.com/Forums/members/carlo_p.html)
@@ -12,9 +12,9 @@
 
 
 
-> # Contents
+> # Contents :memo: :scroll:
 
->- [Who I am](#who-i-am)
+>- [Who I am](#who-i-am-:bust_in_silhouette:)
 >     - [Summary](#summary)   
 >     - [Job References](#job-references)
 >     - [Soft Skills](#soft-skills) 
@@ -34,7 +34,7 @@
 
 ----------
 
-> # **Who I am**
+> # **Who I am** :bust_in_silhouette:
 
 ----------
 
@@ -263,7 +263,7 @@
 
 ----------
 
-> # **What I learned**
+> # **What I learned** :book:
 
 ----------
 >### **Courses**
