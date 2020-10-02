@@ -1,7 +1,7 @@
 
 
-# Experienced CFD Engineer - CAE Analyst - Customer Success Engineer
-![pics](pics/pics.jpg)
+# Experienced CFD Engineer - Customer Success Engineer
+
 > # Contacts
 
 > - <carlo.a.pasquinucci@gmail.com>
