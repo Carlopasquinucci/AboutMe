@@ -12,9 +12,9 @@
 
 
 
-> # Contents :memo: :scroll:
+> # Contents
 
->- [Who I am](#who-i-am-:bust_in_silhouette:)  [link text](#abcd)
+>- [Who I am](#who-i-am)
 >     - [Summary](#summary)   
 >     - [Job References](#job-references)
 >     - [Soft Skills](#soft-skills) 
@@ -34,7 +34,7 @@
 
 ----------
 
-> # **Who I am :bust_in_silhouette:** <a name="abcd"></a>
+> # **Who I am**
 
 ----------
 
@@ -263,12 +263,10 @@
 
 ----------
 
-> # **What I learned** :book:
+> # **What I learned**
 
 ----------
 >### **Courses**
-
-
 
 ***CFD:***   
 >> [“OpenFOAM Advanced Trainging”, July 2020, WolfsDynamics](http://www.wolfdynamics.com/our-services/training/topenfoam-advanced-training.html) - See ![Certificate](certificate/Certificate_openfoam_advance_course.pdf)         
@@ -323,5 +321,3 @@
 >*Please note that this is a beta version. This document is still undergoing final testing before its official release. All data reported in this document are correct, but not complete.*
 
 >Version=0  Subversion=2 Date=30 September 2020
-
-<a name="abcd"></a> [link text](#abcd)
