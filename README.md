@@ -1,11 +1,10 @@
-<a name="abcd"></a> [link text](#abcd)
 
 
 # Experienced CFD Engineer - CAE Analyst - Customer Success Engineer
 ![pics](pics/pics.jpg)
 > # Contacts
 
-> - <carlo.a.pasquinucci@gmail.com>  
+> - <carlo.a.pasquinucci@gmail.com>
 > - [GitHub Repositories](github.com/Carlopasquinucci)  
 > - [LinkedIn Profile](Linkedin.com/in/carloaugustopasquinucci)  
 > - [cfdOnline Profile](https://www.cfd-online.com/Forums/members/carlo_p.html)
@@ -325,4 +324,4 @@
 
 >Version=0  Subversion=2 Date=30 September 2020
 
-
+<a name="abcd"></a> [link text](#abcd)
