@@ -104,8 +104,7 @@
 [//]: # (- [x] :heavy_check_mark:    :large_blue_diamond:  :large_blue_diamond:  :large_orange_diamond:  :large_white_diamond:)
 
 >> :heavy_check_mark: Automotive Engineering:  
-:blue_square: :blue_square:  :blue_square:  :blue_square: :blue_square:  :blue_square:  :white_large_square: :white_large_square: :white_large_square: :white_large_square:    
-![  pippo   ](/pics/7.png)    
+:blue_square: :blue_square:  :blue_square:  :blue_square: :blue_square:  :blue_square:  :white_large_square: :white_large_square: :white_large_square: :white_large_square:       
 >> :heavy_check_mark: CAD Design:    
  :blue_square: :blue_square:  :blue_square:  :blue_square: :blue_square:  :blue_square:  :blue_square:  :blue_square: :blue_square:  :white_large_square:   
 >> :heavy_check_mark: CAE Design:  
