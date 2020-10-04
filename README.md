@@ -5,8 +5,9 @@
 > # Contacts
 
 > - <carlo.a.pasquinucci@gmail.com> 
-> - [GitHub Repositories](github.com/Carlopasquinucci)  
 > - [LinkedIn Profile](Linkedin.com/in/carloaugustopasquinucci)  
+> - [Xing Profile](https://www.xing.com/profile/CarloAugusto_Pasquinucci/cv)
+> - [GitHub Repositories](github.com/Carlopasquinucci)  
 > - [cfdOnline Profile](https://www.cfd-online.com/Forums/members/carlo_p.html)
 > - [YouTube Channel](https://www.youtube.com/channel/UC6_1-cSnXVWVYIbQUFrwVaA?view_as=subscriber)
 
@@ -49,14 +50,21 @@
 > + **Marketing**
 
 > ### Job References
-***Simone Cremonesi, Owner of [AMTR&D](http://amtrd.eu/it):***
->“Before we met Mr Pasquinucci, our development was based basically on experimental tests. He showed us the potential of the Simulation based Design and under his  teachings and suggestions, in very few months, we had the opportunity to learn Computation Fluid Dynamics and perform several simulations with a huge progress of the development of the new project.” 
+
+***[Stephan Harries](https://www.linkedin.com/in/stefan-harries-a93540176/), Managing Director of [FRIENDSHIP SYSTEMS](https://www.friendship-systems.com/):***
+>“[..] *Mr Pasquinucci sets his goals high  without being overambitious or unrealistic*. Besides, Mr Pasquinucci is a very friendly and team-oriented  person who forms a valuable part of FRIENDSHIP SYSTEMS’ team. […]” 
+
+***[Paolo Cescot](https://www.linkedin.com/in/paolo-cescot-521b9945/), Innovation Engineer in Elextrolux:***
+>“I had the chance to work close to Carlo and *I appreciated his professional and efficient approach to problem solving*. He brought a lot of energy and commitment to teamwork, useful notes to raise the level of involvement of the whole team. From the technical point of view *I was really impressed by his skills in particular on the CAE approach to the mechanical design* and his ability to dive into the physical behaviour of complex appliances being capable *to propose creative solutions.”*
+
+***[Ruggero Poletto](https://www.linkedin.com/in/ruggeropoletto/), Founder of [CFD-FEA Service](https://cfdfeaservice.it):***
+>“In the beginning, it was just a LinkedIn contact but later it got transformed into a personal friendship. Since we met, I got struck by Carlo’s passion about CAE/FEM/CFD tools and, at the same time, knowledge of optimisation problem and algorithms. *I can confirm Pasquinucci’s quality as a very proactive person,* with a good problem-solving skill and excellent team working capability. His CFD software and programming language knowledge make him surely suitable to achieve his ambitions goals."
+
+***[Simone Cremonesi](https://www.linkedin.com/in/simone-cremonesi-57428143/), Owner of [AMTR&D](http://amtrd.eu/it):***
+>“Before we met Mr Pasquinucci, our development was based basically on experimental tests. *He showed us the potential of the Simulation based Design* and under his  teachings and suggestions, in very few months, we had the opportunity to learn Computation Fluid Dynamics and perform several simulations with a huge progress of the development of the new project.” 
  
-***Federico Monterosso, Owner of [Omiq S.R.L](https://www.omiq.it/):***
->"I had the chance to collaborate with Carlo a couple of years  ago. I was very impressed by his professionalism and dedication to the project we were working on. His  technical skills, specifically in the use of CAESES but also in general on shape optimisation, resulted in a  very successful project.” 
- 
-***Stephan Harries, Managing Director of [FRIENDSHIP SYSTEMS](https://www.friendship-systems.com/):***
->“[..] Mr Pasquinucci sets his goals high  without being overambitious or unrealistic. Besides, Mr Pasquinucci is a very friendly and team-oriented  person who forms a valuable part of FRIENDSHIP SYSTEMS’ team. […]” 
+***[Federico Monterosso](https://www.linkedin.com/in/federicomonterosso/), Owner of [Omiq S.R.L](https://www.omiq.it/):***
+>"I had the chance to collaborate with Carlo a couple of years  ago. *I was very impressed by his professionalism and dedication to the project we were working on*. His  technical skills, specifically in the use of CAESES but also in general on shape optimisation, resulted in a  very successful project.” 
 
 > ### Soft Skills
 > - *Able to set the goals high without being overambitious*     
@@ -234,13 +242,16 @@
 > ### **Publications**
 >
 ***Conference Articles:***   
+
+>>“The importance of the geometrical properties in the industrial turbofan design”,[Faces of Geometry, Politecnico di Milano, October 2020](http://matematica.unibocconi.it/news/faces-geometry-ii-edizione)     
+>>“Quality tessellation optimization for partial differential equation solution” [Faces of Geometry, Politecnico di Milano, October 2020](http://matematica.unibocconi.it/news/faces-geometry-ii-edizione)             
 >>[“Learning from Results: Data Based Project Based on CFD Simulations”](https://www.researchgate.net/publication/328276740_Learning_from_Results_Data_Based_Project_based_of_CFD_Simulations), [International CAE Conference, Vicenza, October 2018](http://proceedings2018.caeconference.com/)  
 >>“A Fast Optimization Algorithm for Greener Ship Design”, [International CAE Conference, Vicenza, November 2017](http://proceedings2017.caeconference.com/)   
 >>“Significance of Parametric Hull Form Definition on Hydrodynamic Performance Optimization”, VI Compit 2015, Rome, Italy   
 
 ***Poster Sessions:***    
 >>“Logarithmic Spiral Based Volute Design and Optimization” [CAESES European Users’ Meeting, 2019](https://www.friendship-systems.com/news/2019/successful-caeses-users-meeting-2019/)  
->>[“Sparse Free Form Deformation for Faster Hull Optimization”](https://www.researchgate.net/publication/320426792_Sparse_Free_Form_Deformation_a_faster_optimization_algorithm_and_parameter_reduction_technique) [CAESES European Users’ Meeting, 2017](https://www.friendship-systems.com/news/2017/successful-caeses-european-users-meeting-2017/)
+>>[“Sparse Free Form Deformation for Faster Hull Optimization”](https://www.researchgate.net/publication/320426792_Sparse_Free_Form_Deformation_a_faster_optimization_algorithm_and_parameter_reduction_technique) [CAESES European Users’ Meeting, 2017](https://www.friendship-systems.com/news/2017/successful-caeses-european-users-meeting-2017/)           
 >>“Hull Coefficients Sensitivity Analysis with Modern Methods” [International CAE Conference, Vicenza, 2017](http://proceedings2017.caeconference.com/)     
 
 ***Contest:***     
