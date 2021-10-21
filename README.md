@@ -1,5 +1,12 @@
-
+<!--- comments
+ 
+--->
 # Experienced CFD Engineer - Customer Success Engineer
+
+![Me](https://github.com/Carlopasquinucci/AboutMe/blob/master/pics/me.jpg)
+
+
+
 
 > # Contacts
 
@@ -10,8 +17,6 @@
 > - [cfdOnline Profile](https://www.cfd-online.com/Forums/members/carlo_p.html)
 > - [YouTube Channel](https://www.youtube.com/channel/UC6_1-cSnXVWVYIbQUFrwVaA?view_as=subscriber)
 > - [Business Card](https://github.com/Carlopasquinucci/BusinessCard/blob/main/README.md)
-
-![Me](https://github.com/Carlopasquinucci/AboutMe/blob/master/pics/me.jpg)
 
 > # Contents
 
@@ -158,7 +163,7 @@
 >> [TechnoHit S.r.l.](https://www.tecnohit.it/)  (Costa Volpino, Bergamo)
 >> (Engineering Company – CFD – Tolerance Analysis – CAD)   
 >> February 2018 - May 2018 – Learning Internship 
->> June 2018 - Present - Permanent Contract*
+>> June 2018 - Present - Permanent Contract
 >> 
 >> - CFD analysis and optimization using ANSYS, OpenFOAM and Starccm+ (80%); 
 >> - Tolerance analysis (with Six Sigma methodology, Pugh matrix, house of quality, data analysis and cost optimization) for automotive industry and drawing check for different clients (10%)   
@@ -246,19 +251,19 @@
 >
 ***Conference Articles:***   
 
->>“The importance of the geometrical properties in the industrial turbofan design”,[Faces of Geometry, Politecnico di Milano, October 2020](http://matematica.unibocconi.it/news/faces-geometry-ii-edizione)     
->>“Quality tessellation optimization for partial differential equation solution” [Faces of Geometry, Politecnico di Milano, October 2020](http://matematica.unibocconi.it/news/faces-geometry-ii-edizione)             
+>>“The importance of the geometrical properties in the industrial turbofan design”, [Faces of Geometry, Politecnico di Milano, October 2020](http://matematica.unibocconi.it/news/faces-geometry-ii-edizione)     
+>>“Quality tessellation optimization for partial differential equation solution”, [Faces of Geometry, Politecnico di Milano, October 2020](http://matematica.unibocconi.it/news/faces-geometry-ii-edizione)             
 >>[“Learning from Results: Data Based Project Based on CFD Simulations”](https://www.researchgate.net/publication/328276740_Learning_from_Results_Data_Based_Project_based_of_CFD_Simulations), [International CAE Conference, Vicenza, October 2018](http://proceedings2018.caeconference.com/)  
 >>“A Fast Optimization Algorithm for Greener Ship Design”, [International CAE Conference, Vicenza, November 2017](http://proceedings2017.caeconference.com/)   
 >>“Significance of Parametric Hull Form Definition on Hydrodynamic Performance Optimization”, VI Compit 2015, Rome, Italy   
 
 ***Poster Sessions:***    
->>“Logarithmic Spiral Based Volute Design and Optimization” [CAESES European Users’ Meeting, 2019](https://www.friendship-systems.com/news/2019/successful-caeses-users-meeting-2019/)  
->>[“Sparse Free Form Deformation for Faster Hull Optimization”](https://www.researchgate.net/publication/320426792_Sparse_Free_Form_Deformation_a_faster_optimization_algorithm_and_parameter_reduction_technique) [CAESES European Users’ Meeting, 2017](https://www.friendship-systems.com/news/2017/successful-caeses-european-users-meeting-2017/)           
->>“Hull Coefficients Sensitivity Analysis with Modern Methods” [International CAE Conference, Vicenza, 2017](http://proceedings2017.caeconference.com/)     
+>>“Logarithmic Spiral Based Volute Design and Optimization”, [CAESES European Users’ Meeting, 2019](https://www.friendship-systems.com/news/2019/successful-caeses-users-meeting-2019/)  
+>>[“Sparse Free Form Deformation for Faster Hull Optimization”](https://www.researchgate.net/publication/320426792_Sparse_Free_Form_Deformation_a_faster_optimization_algorithm_and_parameter_reduction_technique), [CAESES European Users’ Meeting, 2017](https://www.friendship-systems.com/news/2017/successful-caeses-european-users-meeting-2017/)           
+>>“Hull Coefficients Sensitivity Analysis with Modern Methods”, [International CAE Conference, Vicenza, 2017](http://proceedings2017.caeconference.com/)     
 
 ***Contest:***     
->>“Free Form Deformation and Surrogate Surface: A Help in Greener Ship Design” Winner TraVisions Contest 2018 – European Contest for Master Thesis – [Waterborne Section](https://www.travisions.eu/TRAVisions/young_researcher_results_2018/)
+>>“Free Form Deformation and Surrogate Surface: A Help in Greener Ship Design”, Winner TraVisions Contest 2018 – European Contest for Master Thesis – [Waterborne Section](https://www.travisions.eu/TRAVisions/young_researcher_results_2018/)
 
 > ### **Content Marketing**
 ***LinkedIn Articles:***
@@ -272,8 +277,11 @@
 >>[CFD SIMULATION OF A GAS-LIQUID MULTIPHASE SYSTEM](https://www.linkedin.com/pulse/cfd-simulation-gas-liquid-multiphase-system-carlo-augusto-pasquinucci/) :gb:  
 >>[Where CAE is going?](https://www.linkedin.com/pulse/where-cae-going-carlo-augusto-pasquinucci/)  :gb:  
 
+<!--- comments
+ 
+
 ***Articles on [Il Progettista Industriale:](https://www.ilprogettistaindustriale.it/)***
->>[Introduzione alla Fluidodinamica Numerica](https://reader.paperlit.com/read/prj_5c6d8e19eba04/pub_5c6d8e1a0e83c/5000-01-18?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwcm9qZWN0SWQiOiJwcmpfNWM2ZDhlMTllYmEwNCIsInByb2plY3RQZXJtaXNzaW9uc0JpdG1hc2siOjF9.S2AgZtHxufsSYol5LRjIByWxiUUXLQGDqfVMIocr_No&page=1) :it: 
+>>[Introduzione alla Fluidodinamica Numerica](https://reader.paperlit.com/read/prj_5c6d8e19eba04/pub_5c6d8e1a0e83c/5000-01-18?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwcm9qZWN0SWQiOiJwcmpfNWM2ZDhlMTllYmEwNCIsInByb2plY3RQZXJtaXNzaW9uc0JpdG1hc2siOjF9.S2AgZtHxufsSYol5LRjIByWxiUUXLQGDqfVMIocr_No&page=1) :it:   --->
 
 ----------
 
