@@ -11,7 +11,7 @@
 > - [YouTube Channel](https://www.youtube.com/channel/UC6_1-cSnXVWVYIbQUFrwVaA?view_as=subscriber)
 > - [Business Card](https://github.com/Carlopasquinucci/BusinessCard/blob/main/README.md)
 
-
+![Me](https://github.com/Carlopasquinucci/AboutMe/blob/master/pics/me.jpg)
 
 > # Contents
 
