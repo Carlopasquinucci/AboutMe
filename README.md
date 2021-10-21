@@ -154,7 +154,8 @@
 > ### **Career History**
 >
 ***Data Analyst – CAE Engineer***
->> *TechnoHit S.r.l. (Costa Volpino, Bergamo) – technohit.it 
+>> 
+>> [TechnoHit S.r.l.](https://www.tecnohit.it/)  (Costa Volpino, Bergamo)
 >> (Engineering Company – CFD – Tolerance Analysis – CAD)   
 >> February 2018 - May 2018 – Learning Internship 
 >> June 2018 - Present - Permanent Contract*
