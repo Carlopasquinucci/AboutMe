@@ -168,11 +168,13 @@
 >> **Main projects:**     
 >> -  Injection of a non-newtonian polymer in a heated mold (ANSYS CFX) 
 >> -  Optimization of a heating plate (ANSYS CFX) 
->> -  Creation of a tool for automatic simulations with OpenFOAM in a Linux Server 
+>> -  Creation of a different tools for automatic simulations with OpenFOAM
 >> -  Microwave air cooling system simulation (STARCCM+) 
 >> -  Hob air cooling ventilation system simulation (STARCCM+) 
->> -  Optimization of a carbon blowing equipment (ANSYS CFX) 
->> -  Ahmed car resistance evaluation with OpenFOAM and ANSYS CFX and ANSYS Fluent   
+>> -  Optimization of a carbon blowing equipment (ANSYS CFX)
+>> -  Pipeline injection optimization (ANSYS CFX)
+>> -  Ahmed car resistance evaluation with OpenFOAM and ANSYS CFX and ANSYS Fluent
+>> -  Pressure drop calculation of a complex heat exchanger (ANSYS Fluent) 
 >>
 >> **Software:**
 >> - CAD: SpaceClaim, SolidWorks, Cetol Six Sigma (for tolerance analysis) and CAESES 
@@ -332,4 +334,4 @@
 **Disclaimer**
 >*Please note that this is a beta version. This document is still undergoing final testing before its official release. All data reported in this document are correct, but not complete.*
 
->Version=0  Subversion=2 Date=30 September 2020
+>Version=0  Subversion=3 Date=21 September 2021
