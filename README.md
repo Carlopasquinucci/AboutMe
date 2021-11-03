@@ -339,7 +339,5 @@
 **Disclaimer**
 >*In compliance with the GDPR and the Italian Legislative Decree no. 196 dated 30/06/2003, I hereby authorize you to use and process my personal details contained in this document*
 
-**Disclaimer**
->*Please note that this is a beta version. This document is still undergoing final testing before its official release. All data reported in this document are correct, but not complete.*
 
->Version=0  Subversion=3 Date=21 September 2021
+>Version=1  Subversion=0 Date=3 November 2021
