@@ -1,12 +1,14 @@
-<!--- comments
- 
---->
+
 # Experienced CFD Engineer - Customer Success Engineer
 
 ![Me](https://github.com/Carlopasquinucci/AboutMe/blob/master/pics/me.jpg)
 
-**The printable PDF version is available [here](https://github.com/Carlopasquinucci/AboutMe/releases/download/V_01.0.1/AboutMe.pdf)**
 
+<!--- comments
+ 
+
+**The printable PDF version is available [here](https://github.com/Carlopasquinucci/AboutMe/releases/download/V_01.0.2/AboutMe.pdf)**
+--->
 
 > # Contacts
 
@@ -331,7 +333,11 @@
 **Disclaimer**
 >*In compliance with the GDPR and the Italian Legislative Decree no. 196 dated 30/06/2003, I hereby authorize you to use and process my personal details contained in this document*
 
-**Disclaimer**
+
+
+<!--- comments
+ **Disclaimer**
 >*Please note that this is a alterable version. The data in this document can be modifiable by everyone. Please check the [last released version](https://github.com/Carlopasquinucci/AboutMe/releases/tag/V_01.0.1) . The printable PDF version is available [here](https://github.com/Carlopasquinucci/AboutMe/releases/download/V_01.0.1/AboutMe.pdf)*
 
+--->
 >Version=1  Subversion=0 Patch=2 Date=3 November 2021
