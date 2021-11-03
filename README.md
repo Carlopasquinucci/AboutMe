@@ -342,4 +342,4 @@
 **Disclaimer**
 >*Please note that this is a alterable version. The data in this document can be modifiable by everyone. Please check the [last released version](https://github.com/Carlopasquinucci/AboutMe/releases/tag/V_01.0.1) . The printable PDF version is available [here](https://github.com/Carlopasquinucci/AboutMe/releases/download/V_01.0.1/AboutMe.pdf)*
 
->Version=1  Subversion=0 Date=3 November 2021
+>Version=1  Subversion=0 Patch=1 Date=3 November 2021
