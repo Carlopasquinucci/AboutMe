@@ -258,7 +258,6 @@
 >>“Significance of Parametric Hull Form Definition on Hydrodynamic Performance Optimization”, VI Compit 2015, Rome, Italy   
 
 ***Poster Sessions:***    
->>“Logarithmic Spiral Based Volute Design and Optimization”, [CAESES European Users’ Meeting, 2019](https://www.friendship-systems.com/news/2019/successful-caeses-users-meeting-2019/)  
 >>[“Sparse Free Form Deformation for Faster Hull Optimization”](https://www.researchgate.net/publication/320426792_Sparse_Free_Form_Deformation_a_faster_optimization_algorithm_and_parameter_reduction_technique), [CAESES European Users’ Meeting, 2017](https://www.friendship-systems.com/news/2017/successful-caeses-european-users-meeting-2017/)           
 >>“Hull Coefficients Sensitivity Analysis with Modern Methods”, [International CAE Conference, Vicenza, 2017](http://proceedings2017.caeconference.com/)     
 
@@ -269,19 +268,12 @@
 ***LinkedIn Articles:***
 >>[CFD in ambito biomedicale: una nuova storia di successo](https://www.linkedin.com/pulse/cfd-ambito-biomedicale-una-nuova-storia-di-successo-pasquinucci/) :it:  
 >>[Attraverso la simulazione CFD miglioriamo macchine, prodotti e componenti](https://www.linkedin.com/pulse/attraverso-la-simulazione-cfd-miglioriamo-macchine-e-pasquinucci/) :it:  
->>[L’arte della simulazione CFD a supporto del Design](https://www.linkedin.com/pulse/larte-della-simulazione-cfd-supporto-del-design-pasquinucci/) :it:  
->>[OpenFOAM: come iniziare facilmente](https://www.linkedin.com/pulse/openfoam-come-iniziare-facilmente-carlo-augusto-pasquinucci/) :it:  
+>>[L’arte della simulazione CFD a supporto del Design](https://www.linkedin.com/pulse/larte-della-simulazione-cfd-supporto-del-design-pasquinucci/) :it:   
 >>[SIMULAZIONE CFD DI UN SISTEMA MULTIFASE GAS-LIQUIDO](https://www.linkedin.com/pulse/simulazione-cfd-di-un-sistema-multifase-gas-liquido-pasquinucci/) :it:  
 
 >>[The art of CFD Simulation in supporting Design](https://www.linkedin.com/pulse/art-cfd-simulation-supporting-design-carlo-augusto-pasquinucci/) :gb:  
 >>[CFD SIMULATION OF A GAS-LIQUID MULTIPHASE SYSTEM](https://www.linkedin.com/pulse/cfd-simulation-gas-liquid-multiphase-system-carlo-augusto-pasquinucci/) :gb:  
 >>[Where CAE is going?](https://www.linkedin.com/pulse/where-cae-going-carlo-augusto-pasquinucci/)  :gb:  
-
-<!--- comments
- 
-
-***Articles on [Il Progettista Industriale:](https://www.ilprogettistaindustriale.it/)***
->>[Introduzione alla Fluidodinamica Numerica](https://reader.paperlit.com/read/prj_5c6d8e19eba04/pub_5c6d8e1a0e83c/5000-01-18?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwcm9qZWN0SWQiOiJwcmpfNWM2ZDhlMTllYmEwNCIsInByb2plY3RQZXJtaXNzaW9uc0JpdG1hc2siOjF9.S2AgZtHxufsSYol5LRjIByWxiUUXLQGDqfVMIocr_No&page=1) :it:   --->
 
 ----------
 
@@ -342,4 +334,4 @@
 **Disclaimer**
 >*Please note that this is a alterable version. The data in this document can be modifiable by everyone. Please check the [last released version](https://github.com/Carlopasquinucci/AboutMe/releases/tag/V_01.0.1) . The printable PDF version is available [here](https://github.com/Carlopasquinucci/AboutMe/releases/download/V_01.0.1/AboutMe.pdf)*
 
->Version=1  Subversion=0 Patch=1 Date=3 November 2021
+>Version=1  Subversion=0 Patch=2 Date=3 November 2021
