@@ -5,7 +5,7 @@
 
 ![Me](https://github.com/Carlopasquinucci/AboutMe/blob/master/pics/me.jpg)
 
-
+PDF version available [here](https://github.com/Carlopasquinucci/AboutMe/releases/download/V_01.0.1/AboutMe.pdf)
 
 
 > # Contacts
