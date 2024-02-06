@@ -101,7 +101,7 @@
 > ***Languages:*** Python, Matlab, Visual Basic (Basic), GitHub, MarkDown        
 > ***CAD:*** Ansys SpaceClaim, SolidWorks, Catia (Basic), CAESES      
 > ***CFD:*** ANSYS (CFX-Fluent), OpenFoam, STARCCM+, ParaView  
-> **FEM:*** ANSYS Mechanical, ANSYS Autodyn   
+> ***FEM:*** ANSYS Mechanical, ANSYS Autodyn   
 > ***Tolerance analysis:*** CETOL 6σ        
 > ***Optimizer:*** DAKOTA, CAESES, ANSYS, Python   
 
@@ -363,7 +363,7 @@
 
 <!--- comments
  **Disclaimer**
->*Please note that this is a alterable version. The data in this document can be modifiable by everyone. Please check the [last released version](https://github.com/Carlopasquinucci/AboutMe/releases/tag/V_02.0.0) . The printable PDF version is available [here](https://github.com/Carlopasquinucci/AboutMe/releases/download/V_02.0.0/AboutMe.pdf)*
+>*Please note that this is a alterable version. The data in this document can be modifiable by everyone. Please check the [last released version](https://github.com/Carlopasquinucci/AboutMe/releases/tag/V_02.0.0)
 
 --->
 >Version=2 Subversion=0 Patch=0 Date=06 February 2024
