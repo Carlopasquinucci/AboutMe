@@ -86,12 +86,10 @@
 > - Outdoor sports in contact with nature: Cycling, Sailing, Windsurfing, Trekking
 > - Explore the world in a slow and green way, in particolar, in unsupported [bikepacking trip](https://bikepacking.com/bikepacking-101/)
 > - Host and give hospitality to travelling people through the [Couchsurfing association](https://en.wikipedia.org/wiki/CouchSurfing)
-> - Organizer and active partecipant at the [*Critical Mass*](https://en.wikipedia.org/wiki/Critical_Mass_(cycling)) in Brescia
-> - Promoter and organizer for turistic free green tours by bike for supporting turism in my region
-> - Organizer and active partecipant a the *Speak English! Valcamonica*
+> - Organizer and active partecipant at the [*Critical Mass*](https://en.wikipedia.org/wiki/Critical_Mass_(cycling)) in different cities
+> - Promoter and organizer for touristic free green tours by bike for supporting turism in my region
+> - Organizer and active partecipant at several "English Speaking Dinner"
 > - Promoter and active partecipant at the [*Banco Alimentare*](www.bancoalimentare.it) (An Italian food bank)
-
-
 
 ----------
 
@@ -101,12 +99,11 @@
 > ### Software
 > ***O.S.:*** Windows, Linux   
 > ***Languages:*** Python, Matlab, Visual Basic (Basic), GitHub, MarkDown        
-> ***CAD:*** Ansys SpaceClaim, SolidWorks, CAESES      
-> ***CFD:*** ANSYS (CFX-Fluent), OpenFoam, STARCCM+, ParaView        
+> ***CAD:*** Ansys SpaceClaim, SolidWorks, Catia (Basic), CAESES      
+> ***CFD:*** ANSYS (CFX-Fluent), OpenFoam, STARCCM+, ParaView  
+> **FEM:*** ANSYS Mechanical, ANSYS Autodyn   
 > ***Tolerance analysis:*** CETOL 6σ        
 > ***Optimizer:*** DAKOTA, CAESES, ANSYS, Python   
-> ***Support - Conferencing:*** Skype, GoToMeeting, TeamViewer   
-> ***Other:*** Office, Outlook, Google Calendar, LibreOffice, Google Docs, LaTex
 
 > ### Languages 
 >  :it:    **Italian:** Mothertongue   
@@ -159,11 +156,35 @@
 ----------
 
 > ### **Career History**
->
+
+***CAE Engineer***
+>> [Asotech S.r.l.](https://www.asotech.it/) (Sant'Ilario, Reggio nell'Emilia)  
+>> (CAE Consultancy Company)  
+>> From February 2022 (Permanent Contract)
+>> - CFD analysis and optimization using ANSYS CFX, Fluent, OpenFOAM and Icepack (60%)
+>> - FEM analysis and optimization using ANSYS Mechanical and Autodyn (30%)
+>> - Preparation of commercial material ([Conferences](https://www.asotech.com/asotech-interviene-al-simulation-summit-2023-mecspe-a-bologna/) - [LinkedIn Videos]([https://www.linkedin.com/posts/ansys-inc_ansys-motion-at-at-analysis-activity-7059971269366091776-m0PJ?utm_source=share&utm_medium=member_desktop]) - Posts ) (10%)
+
+**Main projects:**
+>> - Thermo-structural analysis of an electronic device (ANSYS Icepack- CFX-Mechanical)
+>> - Optimization of an engine valve (ANSYS CFX)
+>> - Comparison of different turbulence models on a cigarette simulation (ANSYS Fluent)
+>> - Optimization of a “Pizza Oven” (ANSYS Fluent)
+>> - FSI simulation of a turbine (ANSYS Fluent - Mechanical)
+>> - FSI analysis of park rides (ANSYS CFX - Mechanical)
+>> - Explicit structural analysis of an electrical cabinet explosion (ANSYS Autodyn)
+>> - Explicit structural analysis of an e-cig (ANSYS Mechanical)
+>> - Teaching ANSYS, openFOAM and Autodesk CFD to different clients
+>> - Automatic sheet based on surrogate response surfaces for structural stress evaluation (ANSYS Mechanical)
+**Software:**
+>> - CFD and FEM: ANSYS (CFX, Fluent, Icepack, Mechanical, Autodyn), OpenFOAM, STARCCM+, Autodesk CFD
+>> - CAD: SpaceClaim, SolidWorks, Catia
+>> - Data Analysis and Optimization: Ansys, Python, Dakota
+
 ***Data Analyst – CAE Engineer***
 >> 
->> [TechnoHit S.r.l.](https://www.tecnohit.it/)  (Costa Volpino, Bergamo)
->> (Engineering Company – CFD – Tolerance Analysis – CAD)   
+>> [TechnoHit S.r.l.](https://www.tecnohit.it/)  (Costa Volpino, Bergamo)  
+>> (Engineering Company – CFD – Tolerance Analysis – CAD)    
 >> February 2018 - May 2018 – Learning Internship 
 >> June 2018 - Present - Permanent Contract
 >> 
@@ -251,7 +272,9 @@
 
 > ### **Publications**
 >
-***Conference Articles:***   
+***Conference Articles and Presentation:***   
+>>“L’analisi numerica nel mondo delle energie rinnovabili” Simulation Summit, Mec Spe 2023, Bologna, May 2023  
+>>“L’uso dei template per la simulazione numerica real-time” Simulation Summit, Mec Spe 2021, Bologna, November 2021
 
 >>“The importance of the geometrical properties in the industrial turbofan design”, [Faces of Geometry, Politecnico di Milano, October 2020](http://matematica.unibocconi.it/news/faces-geometry-ii-edizione)     
 >>“Quality tessellation optimization for partial differential equation solution”, [Faces of Geometry, Politecnico di Milano, October 2020](http://matematica.unibocconi.it/news/faces-geometry-ii-edizione)             
@@ -265,6 +288,9 @@
 
 ***Contest:***     
 >>“Free Form Deformation and Surrogate Surface: A Help in Greener Ship Design”, Winner TraVisions Contest 2018 – European Contest for Master Thesis – [Waterborne Section](https://www.travisions.eu/TRAVisions/young_researcher_results_2018/)
+
+***Engineering journal:***     
+>>“Il progettista industriale” - [Italian Enginnering Journal](https://www.ilprogettistaindustriale.it/author/carlo-pasquinucci/)
 
 > ### **Content Marketing**
 ***LinkedIn Articles:***
@@ -306,7 +332,7 @@
 >> [“Introduction to Geometric Dimensioning and Tolerancing", Linkedin Learning](https://www.linkedin.com/learning/introduction-to-geometric-dimensioning-and-tolerancing)     
 
 ***Managment and Quality Control:***   
->> Different courses on [Learnn](https://app.learnn.com/) about **Funnel**, **Pricing**, **Subscription** and **Testing**       
+>> Different courses on [Learnn](https://app.learnn.com/) about **Content Creation**, **Funnel**, **Pricing**, **Subscription** and **Testing**       
 >> [“Operational Excellence Foundations", Linkedin Learning](https://www.linkedin.com/learning/operational-excellence-foundations)   
 >> [“Project Management Foundations: Quality”, Linkedin Learning](https://www.linkedin.com/learning/project-management-foundations-quality)   
 >> [“Six Sigma Foundations”, Linkedin Learning](https://www.linkedin.com/learning/six-sigma-green-belt)   
@@ -314,7 +340,7 @@
 
 
 >### **University**
-***[Ingegneria Navale - University of Genoa](https://corsi.unige.it/8722)***   
+***[Naval architecture and Marine Engineering – University of Genoa and Technical University of Berlin](https://corsi.unige.it/8722)***   
 >>*September 2009 – September 2016*  
 >>**Master Degree: 105/110**  
 >>*Master Thesis: [Free Form Deformation and Surrogate Models for Exploration, Sensitivity and Optimization of Complex Hull Forms](https://www.researchgate.net/publication/312535839_FREE_FORM_DEFORMATION_AND_SURROGATE_MODELS_FOR_EXPLORATION_SENSITIVITY_AND_OPTIMIZATION_OF_COMPLEX_HULL_FORMS)*   
@@ -337,7 +363,7 @@
 
 <!--- comments
  **Disclaimer**
->*Please note that this is a alterable version. The data in this document can be modifiable by everyone. Please check the [last released version](https://github.com/Carlopasquinucci/AboutMe/releases/tag/V_01.0.1) . The printable PDF version is available [here](https://github.com/Carlopasquinucci/AboutMe/releases/download/V_01.0.1/AboutMe.pdf)*
+>*Please note that this is a alterable version. The data in this document can be modifiable by everyone. Please check the [last released version](https://github.com/Carlopasquinucci/AboutMe/releases/tag/V_02.0.0) . The printable PDF version is available [here](https://github.com/Carlopasquinucci/AboutMe/releases/download/V_02.0.0/AboutMe.pdf)*
 
 --->
->Version=1  Subversion=0 Patch=2 Date=3 November 2021
+>Version=2 Subversion=0 Patch=0 Date=06 February 2024
