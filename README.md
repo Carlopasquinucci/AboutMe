@@ -342,10 +342,10 @@
 >### **University**
 ***[Naval architecture and Marine Engineering – University of Genoa and Technical University of Berlin](https://corsi.unige.it/8722)***   
 >>*September 2009 – September 2016*  
->>**Master Degree: 105/110**  
->>*Master Thesis: [Free Form Deformation and Surrogate Models for Exploration, Sensitivity and Optimization of Complex Hull Forms](https://www.researchgate.net/publication/312535839_FREE_FORM_DEFORMATION_AND_SURROGATE_MODELS_FOR_EXPLORATION_SENSITIVITY_AND_OPTIMIZATION_OF_COMPLEX_HULL_FORMS)*   
+>>**Master's Degree: 105/110**  
+>>*Master's Thesis: [Free Form Deformation and Surrogate Models for Exploration, Sensitivity and Optimization of Complex Hull Forms](https://www.researchgate.net/publication/312535839_FREE_FORM_DEFORMATION_AND_SURROGATE_MODELS_FOR_EXPLORATION_SENSITIVITY_AND_OPTIMIZATION_OF_COMPLEX_HULL_FORMS)*   
 >>(In collaboration with [Friendship-Systems AG](https://www.friendship-systems.com/) – [Winner of TRAVisions 2018 European Contest](https://www.travisions.eu/TRAVisions/young_researcher_results_2018/) - [Presentation Video](https://youtu.be/v5UBHdiCg_w)  
->>Bachelor Thesis: Preliminary design of a 12,380 DWT Chemical Tanker (February, 2013), 4-People Team Work  
+>>Bachelor's Thesis: Preliminary design of a 12,380 DWT Chemical Tanker (February, 2013), 4-People Team Work  
 
 ***[TU – Berlin](https://www.marsys.tu-berlin.de/menue/home/) - Erasmusm Student***
 >>March 2014 – September 2014  
