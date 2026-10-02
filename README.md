@@ -157,10 +157,19 @@
 
 > ### **Career History**
 
+***Freelancer Engineering Journalists***
+>> *September 2026 - *  
+>> Social Media Manager for International Slackline Association: 
+>> - *[International Slackline Association](https://www.slacklineinternational.org/) (Bern, Switzerland)*
+>>      
+>> Engineering Journalist for:
+>> - *[Il Progettista Industriale](https://www.ilprogettistaindustriale.it) (Tecniche Nuove Srl, Milano)*
+>> - *[Oleodinamica Pneumatica](https://www.meccanicanews.com/) (Tecniche Nuove Srl, Milano)*
+
 ***CAE Engineer***
 >> [Asotech S.r.l.](https://www.asotech.it/) (Sant'Ilario, Reggio nell'Emilia)  
 >> (CAE Consultancy Company)  
->> From February 2022 (Permanent Contract)
+>> February 2022 - June 2026
 >> - CFD analysis and optimization using ANSYS CFX, Fluent, OpenFOAM and Icepack (60%)
 >> - FEM analysis and optimization using ANSYS Mechanical and Autodyn (30%)
 >> - Preparation of commercial material ([Conferences](https://www.asotech.com/asotech-interviene-al-simulation-summit-2023-mecspe-a-bologna/) - [LinkedIn Videos]([https://www.linkedin.com/posts/ansys-inc_ansys-motion-at-at-analysis-activity-7059971269366091776-m0PJ?utm_source=share&utm_medium=member_desktop]) - Posts ) (10%)
@@ -186,7 +195,7 @@
 >> [TechnoHit S.r.l.](https://www.tecnohit.it/)  (Costa Volpino, Bergamo)  
 >> (Engineering Company – CFD – Tolerance Analysis – CAD)    
 >> February 2018 - May 2018 – Learning Internship 
->> June 2018 - Present - Permanent Contract
+>> June 2018 - December 2021
 >> 
 >> - CFD analysis and optimization using ANSYS, OpenFOAM and Starccm+ (80%); 
 >> - Tolerance analysis (with Six Sigma methodology, Pugh matrix, house of quality, data analysis and cost optimization) for automotive industry and drawing check for different clients (10%)   
