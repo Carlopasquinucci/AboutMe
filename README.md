@@ -369,10 +369,5 @@
 >*In compliance with the GDPR and the Italian Legislative Decree no. 196 dated 30/06/2003, I hereby authorize you to use and process my personal details contained in this document*
 
 
-
-<!--- comments
- **Disclaimer**
->*Please note that this is a alterable version. The data in this document can be modifiable by everyone. Please check the [last released version](https://github.com/Carlopasquinucci/AboutMe/releases/tag/V_02.0.0)
-
 --->
->Version=2 Subversion=0 Patch=0 Date=06 February 2024
+>Version=3 Subversion=0 Patch=0 Date=02 October 2026
